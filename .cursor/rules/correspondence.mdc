@@ -1,0 +1,13 @@
+---
+description: Architelier letters, memos, and client or city email
+alwaysApply: false
+---
+
+Use `templates/correspondence.md` for letters and memos.
+
+- Date, addressee, project address, and a `RE:` line come first
+- One purpose per letter: confirm, request, or respond
+- Copy municipality spelling and unit suffixes from the latest source (city, title, or consultant email)
+- Mark code or accessibility statements as draft for Danny’s review unless quoting a signed Architelier document
+- Close with the current Architelier signature; if the thread already has a signature, match it
+- Keep the voice formal and specific; no marketing language on permit or city letters

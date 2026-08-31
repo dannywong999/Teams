@@ -1,0 +1,16 @@
+---
+description: @Cursor instructs Grok Bot Outstanding — create/update tasks, descriptions, priorities, done history
+alwaysApply: true
+---
+
+`@Cursor` **instructs**. Grok Bot **Outstanding** **tracks**. Ledger: `tasks/outstanding.md`. Setup: `bots/outstanding.md`.
+
+On any assignment (new work, existing ID, “update the description”, “make this P1”, “this is done”, “list outstanding”):
+
+1. Match an existing `T-xxx` by ID, project, address, or same next action. If none, create the next ID.
+2. Write or revise **Description**, **Next**, **Priority** (P1–P4 per the table in the ledger), **Status** (`open` | `waiting` | `done`).
+3. Never delete. Done items move to **Done** with a Closed date.
+4. Refresh the Index (P1 first). Set **Last instruction** and **Updated**.
+5. Reply with ID, pri, status, and next action. Empty `@Cursor` pings list open+waiting, P1 first.
+
+Do not log fees, personal appointments, or home addresses. Do not duplicate rows.

@@ -1,0 +1,9 @@
+.DS_Store
+*.qbw
+*.QBB
+*.TLG
+*.ADR
+.env
+.env.*
+*.pem
+*.key

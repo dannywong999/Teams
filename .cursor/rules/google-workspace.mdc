@@ -1,0 +1,14 @@
+---
+description: Gmail, Google Drive, and Calendar usage for Architelier office work
+alwaysApply: false
+---
+
+When the request involves email, files, a project name, an address, a consultant, or a meeting:
+
+1. Search Drive (`title` / `fullText`) and Gmail before creating a new document.
+2. Create Gmail **drafts** with `create_draft`. Do not `send_message` unless Danny said to send.
+3. Use `America/Vancouver` for calendar times. Propose slots with `suggest_time` before inviting external attendees.
+4. Cite the Drive file title and URL, or the Gmail subject and date, in the reply.
+5. Do not trash Drive files, delete events, or change sharing unless explicitly asked.
+
+Prefer updating an existing letter or drawing package over starting a parallel copy with a new name.
