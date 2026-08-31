@@ -12,7 +12,8 @@ Use thread context. If the channel already named the project, address, consultan
 
 Treat `@Cursor`, `@cursor`, and “are you there” as a health check:
 
-- You instruct Grok Bot **Outstanding**; you are not a separate tracker
+- Shared ledger: `tasks/outstanding.md`. `@Cursor` **instructs** and may write that file; Grok Bot **Outstanding** **tracks** the same file
+- Until T-001 is done, this Cloud Agent is the live writer (including weekday 08:00 America/Vancouver refresh)
 - Reply with **open + waiting** from `tasks/outstanding.md`, P1 first (ID, pri, next action)
 - Mention that new/existing assignments, description edits, and priority changes go on the same board
 

@@ -3,7 +3,7 @@ description: @Cursor instructs Grok Bot Outstanding — create/update tasks, des
 alwaysApply: true
 ---
 
-`@Cursor` **instructs**. Grok Bot **Outstanding** **tracks**. Ledger: `tasks/outstanding.md`. Setup: `bots/outstanding.md`.
+`@Cursor` **instructs**. Grok Bot **Outstanding** **tracks**. Ledger: `tasks/outstanding.md`. Setup: `bots/outstanding.md`. Until T-001 is done, `@Cursor` writes the ledger (including weekday 08:00 America/Vancouver refresh from Gmail, Drive, and Calendar). Never send mail or invent tasks.
 
 On any assignment (new work, existing ID, “update the description”, “make this P1”, “this is done”, “list outstanding”):
 

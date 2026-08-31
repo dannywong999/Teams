@@ -25,7 +25,7 @@ Natural language is enough:
 - `@Cursor update T-005: access letter is CF-2026-002887`
 - `@Cursor the Medcorp invoice to accounting is done`
 
-Create the Bot once: Grok Bot as `dwong@architelier.com` (Pro+ includes it) → [bots/outstanding.md](bots/outstanding.md). Weekday 08:00 America/Vancouver refreshes the same file.
+Create the Bot once: Grok Bot as `dwong@architelier.com` (Pro+ includes it) → [bots/outstanding.md](bots/outstanding.md). Weekday 08:00 America/Vancouver refreshes the same file (`@Cursor` covers that run until Outstanding exists).
 
 ## Other commands
 
