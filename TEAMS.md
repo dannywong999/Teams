@@ -15,6 +15,18 @@ The agent does not run inside Teams. It works in a Cursor VM, then posts a card 
 
 Natural language also works: `@Cursor with opus, draft a city memo for PromoChrom`.
 
+## Outstanding tasks (Grok Bot)
+
+`@Cursor` shares `tasks/outstanding.md` with a Cursor **Grok Bot** named `Outstanding`. That Bot is the standing tracker; Teams `@Cursor` is the mention that updates it from a channel.
+
+| You type | What happens |
+| --- | --- |
+| `@Cursor list outstanding` | Reads the board and replies on the card |
+| `@Cursor add outstanding: [one line]` | Adds a row and opens a PR |
+| `@Cursor done T-007` | Marks that ID done |
+
+Create the Bot once: sign into Grok Bot as `dwong@architelier.com` (Pro+ includes it) and follow [bots/outstanding.md](bots/outstanding.md). Weekday 08:00 America/Vancouver routine refreshes the same file.
+
 ## What to ask
 
 Good:
@@ -23,8 +35,9 @@ Good:
 - `@Cursor find the latest accessibility memo for 11351 Commerce Parkway in Drive`
 - `@Cursor what is on the calendar tomorrow morning`
 - `@Cursor add a letter template for occupancy letters`
+- `@Cursor list outstanding`
 
-Less good: a ping with no task (`@Cursor` alone). That only confirms the bot is connected.
+A ping with no task (`@Cursor` alone) confirms the bot is connected and lists **open** outstanding items.
 
 ## Follow-ups
 

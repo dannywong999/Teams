@@ -28,6 +28,7 @@ Architect AIBC, MRAIC, RI, B.Arch., LEED AP
 (672) 727-8288
 ARCHITELIER ARCHITECTURE & REAL ESTATE CONSULTING INC.
 Office: 680 – 838 West Hastings Street, Vancouver, BC V6C 0A6
+Mailing Address: 7430 Granville Street, Vancouver, BC V6P 0G1
 www.architelier.com
 ```
 

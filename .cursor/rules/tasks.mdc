@@ -1,0 +1,10 @@
+---
+description: Keep tasks/outstanding.md in sync; link @Cursor to Grok Bot Outstanding
+alwaysApply: true
+---
+
+Outstanding work lives in `tasks/outstanding.md`. That file is the link between Teams `@Cursor` and the Grok Bot named `Outstanding` (`bots/outstanding.md`).
+
+When the user asks to list, add, finish, or track tasks — or when a run completes with leftover work — update `tasks/outstanding.md` (stable IDs `T-001`…) and mention the change in the reply. Do not duplicate rows. Do not log fees, personal appointments, or home addresses.
+
+`@Cursor list outstanding` and empty `@Cursor` pings should include the current **open** rows.
