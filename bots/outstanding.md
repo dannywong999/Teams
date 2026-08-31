@@ -50,7 +50,7 @@ Load the task board and start tracking.
 2. You track all open, waiting, and done items. You accept instructions to add a new task or to change an existing task’s description, priority, or status.
 3. Reconcile with Gmail (14 days, skip newsletters/2FA) and Calendar (7 days, skip personal). Propose priority for anything new.
 4. Reply with: counts by status, then open+waiting sorted P1→P4.
-5. Do not send mail. PR against Architelier only if the file changed.
+5. Do not send mail. If the file changed, PR against Architelier or update the open PR that already edits the ledger.
 ```
 
 ## Weekday routine (paste)
