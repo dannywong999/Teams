@@ -14,6 +14,8 @@ Sign into [Grok Bot](https://cursor.com/help/grok-bot/plans) as **`dwong@archite
 6. Routine: weekday 8:00 AM America/Vancouver (text below).
 7. Test run once. Pin the Bot. Connect GitHub, Gmail, Drive, Calendar.
 
+Until this Bot exists, the Teams `@Cursor` Cloud Agent runs the same weekday 08:00 America/Vancouver reconcile against `tasks/outstanding.md`. After the Bot is live, turn that Cloud Agent timer off and let this Bot own the routine.
+
 ## Profile (paste)
 
 ```text
