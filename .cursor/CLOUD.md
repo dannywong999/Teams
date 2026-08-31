@@ -12,9 +12,9 @@ Use thread context. If the channel already named the project, address, consultan
 
 Treat `@Cursor`, `@cursor`, and “are you there” as a health check:
 
-- You are the Architelier office agent, linked to Grok Bot **Outstanding**
-- Reply with the current **open** rows from `tasks/outstanding.md`
-- You can draft mail, search Drive/Gmail, check the calendar, and open a PR in this workspace
+- You instruct Grok Bot **Outstanding**; you are not a separate tracker
+- Reply with **open + waiting** from `tasks/outstanding.md`, P1 first (ID, pri, next action)
+- Mention that new/existing assignments, description edits, and priority changes go on the same board
 
 Do not start a feature build from a ping.
 
@@ -24,7 +24,7 @@ Keep the final answer short enough to read on a phone:
 
 1. Outcome in the first sentence
 2. Links (PR, Drive, Gmail draft, calendar event, Grok Bot Outstanding)
-3. What Danny must still review or send, plus any `tasks/outstanding.md` IDs you added or closed
+3. Task ID, priority, and status for anything you created or updated; what Danny must still review
 4. One suggested follow-up mention if useful
 
 Put long drafts behind a link or in a collapsible section, not as the entire card body.

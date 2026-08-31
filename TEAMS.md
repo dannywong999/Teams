@@ -2,42 +2,47 @@
 
 Mention **@Cursor** in a Teams chat or channel to start a Cloud Agent against this workspace (`dannywong999/Teams`, branch `Architelier`) unless you name another repository.
 
-The agent does not run inside Teams. It works in a Cursor VM, then posts a card with the result and any pull request.
+The agent does not run inside Teams. It **instructs** the Cursor Grok Bot named **Outstanding**, which **tracks** every assigned task (new or existing): description, priority, open/waiting/done.
 
-## Commands
+## Assign work to the bot
+
+Say what to track. Outstanding matches an existing `T-xxx` or creates a new one, proposes P1–P4 if you omit priority, and keeps done items forever.
+
+| You type | What the bot does |
+| --- | --- |
+| `@Cursor track: [work]` | New task, or update if it already exists |
+| `@Cursor update T-004: [new description]` | Change description / next action |
+| `@Cursor priority T-004 P1` | Set priority (`P1` urgent … `P4` parked) |
+| `@Cursor waiting T-008 on the city` | Status → waiting |
+| `@Cursor done T-007` | Status → done (record kept) |
+| `@Cursor list outstanding` | Open + waiting, P1 first |
+| `@Cursor list done` | Closed history |
+| `@Cursor list all` | Full ledger |
+
+Natural language is enough:
+
+- `@Cursor track the Vulcan Way 3.2.2.76 update as P1 — don’t send it`
+- `@Cursor update T-005: access letter is CF-2026-002887`
+- `@Cursor the Medcorp invoice to accounting is done`
+
+Create the Bot once: Grok Bot as `dwong@architelier.com` (Pro+ includes it) → [bots/outstanding.md](bots/outstanding.md). Weekday 08:00 America/Vancouver refreshes the same file.
+
+## Other commands
 
 | You type | What happens |
 | --- | --- |
-| `@Cursor [task]` | Starts an agent. In an existing agent thread, this is a follow-up. |
+| `@Cursor [task]` | Starts an agent. In an existing agent thread, adds a follow-up. |
 | `@Cursor help` | Live command list from Cursor. |
 | `@Cursor unlink` or `@Cursor disconnect` | Disconnects *your* Cursor account from Teams. |
 | `@Cursor repo=dannywong999/Teams branch=Architelier [task]` | Pins repo and base branch. |
 
-Natural language also works: `@Cursor with opus, draft a city memo for PromoChrom`.
-
-## Outstanding tasks (Grok Bot)
-
-`@Cursor` shares `tasks/outstanding.md` with a Cursor **Grok Bot** named `Outstanding`. That Bot is the standing tracker; Teams `@Cursor` is the mention that updates it from a channel.
-
-| You type | What happens |
-| --- | --- |
-| `@Cursor list outstanding` | Reads the board and replies on the card |
-| `@Cursor add outstanding: [one line]` | Adds a row and opens a PR |
-| `@Cursor done T-007` | Marks that ID done |
-
-Create the Bot once: sign into Grok Bot as `dwong@architelier.com` (Pro+ includes it) and follow [bots/outstanding.md](bots/outstanding.md). Weekday 08:00 America/Vancouver routine refreshes the same file.
-
-## What to ask
-
-Good:
+## What to ask besides tracking
 
 - `@Cursor draft a reply to Ehsan about the hair salon unit suffix — don’t send it`
 - `@Cursor find the latest accessibility memo for 11351 Commerce Parkway in Drive`
 - `@Cursor what is on the calendar tomorrow morning`
-- `@Cursor add a letter template for occupancy letters`
-- `@Cursor list outstanding`
 
-A ping with no task (`@Cursor` alone) confirms the bot is connected and lists **open** outstanding items.
+A ping with no task (`@Cursor` alone) confirms the link and lists **open + waiting**, P1 first.
 
 ## Follow-ups
 
@@ -47,9 +52,9 @@ In a **personal or group chat**, use **Open in Web** or **Open in Desktop** on t
 
 ## Accounts
 
-Link Cursor to the **Architelier work** Microsoft account (`dwong@architelier.com`), not a personal Microsoft / Teams Free identity. Work and personal accounts stay separate; switch accounts from the Teams profile menu if the Cursor app was installed while signed into the wrong one.
+Link Cursor to the **Architelier work** Microsoft account (`dwong@architelier.com`), not a personal Microsoft / Teams Free identity.
 
-Install and connect from [Cursor integrations](https://cursor.com/dashboard/integrations) → Microsoft Teams, with GitHub already connected.
+Install from [Cursor integrations](https://cursor.com/dashboard/integrations) → Microsoft Teams, with GitHub already connected.
 
 ## Privacy
 

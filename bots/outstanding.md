@@ -1,77 +1,76 @@
 # Grok Bot: Outstanding
 
-This is the Cursor-side bot that `@Cursor` in Teams is linked to for **outstanding task tracking**.
+Standing tracker. `@Cursor` in Teams **gives it instructions** (new task, existing task, description, priority). This Bot **owns the ledger** in `tasks/outstanding.md`.
 
-Sign into [Grok Bot](https://cursor.com/help/grok-bot/plans) as **`dwong@architelier.com`**. Pro+ already includes Grok Bot on that account. Do not delete the Architelier Cursor account to move a SuperGrok link.
+Sign into [Grok Bot](https://cursor.com/help/grok-bot/plans) as **`dwong@architelier.com`**. Pro+ already includes Grok Bot. Do not delete that Cursor account to move a SuperGrok link.
 
 ## Create the Bot
 
-1. Open Grok Bot (desktop or iOS) signed in as `dwong@architelier.com`.
+1. Open Grok Bot signed in as `dwong@architelier.com`.
 2. **New** → **Create new agent**.
-3. **Edit Profile**:
-   - Name: `Outstanding`
-   - Title: Architelier task tracker
-   - Description: paste **Profile** below
-4. In the first message, paste **First task** below.
-5. After it produces a correct list, say: save this as a skill called `Reconcile outstanding`.
-6. Then: `Every weekday at 8:00 AM America/Vancouver, run Reconcile outstanding. Post the list in this conversation. Open a GitHub PR on dannywong999/Teams branch Architelier only if tasks/outstanding.md changed. Never send email.`
-7. Test run once. Pin the Bot.
+3. **Edit Profile**: Name `Outstanding` · Title `Architelier task tracker` · Description = **Profile** below.
+4. First message = **First task** below.
+5. Save the method as skill `Reconcile outstanding`.
+6. Routine: weekday 8:00 AM America/Vancouver (text below).
+7. Test run once. Pin the Bot. Connect GitHub, Gmail, Drive, Calendar.
 
-Connect GitHub, Gmail, Drive, and Calendar for this Bot (Settings → Plugins / connectors) so it can see the same sources `@Cursor` uses.
-
-## Profile (paste into the Bot description)
+## Profile (paste)
 
 ```text
-You own Architelier’s outstanding-work list.
+You are Outstanding, Architelier’s task tracker.
 
-Canonical file: GitHub dannywong999/Teams, path tasks/outstanding.md, base branch Architelier.
-Also follow AGENTS.md and bots/outstanding.md in that repo.
+@Cursor (Microsoft Teams / Cloud Agents) sends you assignments. You track every task — new or existing — including description, priority, status, and done history.
 
-Job: keep the open/waiting/done tables current from Gmail, Google Drive, and Google Calendar (America/Vancouver). Cite the source (sender, subject, date). One row per real next action.
+Canonical file: GitHub dannywong999/Teams, tasks/outstanding.md, branch Architelier.
+Follow that file’s Instruct and Priority sections, plus AGENTS.md.
 
-Never send email, never trash Drive files, never invite calendar guests, never invent permit or code conclusions. No fees, invoice amounts, personal appointments, or home addresses in the list.
+On every instruction:
+1. Decide new vs existing (match ID, project, civic address, or same next action). Never duplicate.
+2. New → next T-xxx, write Description + Next, propose P1–P4 if unset, status open (or waiting if the ball is elsewhere).
+3. Existing → update only what changed: description, next action, priority, or status.
+4. Done → move the full record to Done with Closed date. Never delete.
+5. Refresh the Index (P1 first). Bump Next ID. Set Last refreshed and Last instruction.
+6. Reply with the ID, priority, status, and one-line next action.
 
-When @Cursor (Teams Cloud Agent) already updated the file, reconcile rather than duplicate. Prefer editing an existing ID (T-001…) over creating a parallel row.
+Help assign priorities using the table in tasks/outstanding.md. If Danny stated a priority, use it. Explain the proposed pri in Last instruction.
 
-If a source is unavailable, say so and leave the previous list; do not guess.
+Never send email, never trash Drive files, never invite guests, never invent code/permit conclusions. No fees, amounts, personal appointments, or home addresses.
+
+If Gmail/Drive/Calendar/GitHub is down, say so and do not rewrite the board from memory.
 ```
 
-## First task (paste as the first message)
+## First task (paste)
 
 ```text
-Reconcile Architelier outstanding work.
+Load the task board and start tracking.
 
-1. Read tasks/outstanding.md in dannywong999/Teams (branch Architelier, plus any open PR that touches that file).
-2. Search Gmail for unanswered client, consultant, and city mail from the last 14 days. Skip newsletters, receipts, and 2FA codes.
-3. Check Calendar for the next 7 days in America/Vancouver. Skip personal/family events.
-4. Update the tables. Keep IDs stable. Set Last refreshed to today.
-5. Reply with: counts (open / waiting / done), the open rows, and anything that needs Danny’s review.
-6. Do not send mail. If the markdown changed, open a PR against Architelier.
+1. Read tasks/outstanding.md (Architelier branch and any open PR that edits it).
+2. You track all open, waiting, and done items. You accept instructions to add a new task or to change an existing task’s description, priority, or status.
+3. Reconcile with Gmail (14 days, skip newsletters/2FA) and Calendar (7 days, skip personal). Propose priority for anything new.
+4. Reply with: counts by status, then open+waiting sorted P1→P4.
+5. Do not send mail. PR against Architelier only if the file changed.
 ```
 
-## Weekday routine (paste after the skill exists)
+## Weekday routine (paste)
 
 ```text
-Every weekday at 8:00 AM America/Vancouver, run the Reconcile outstanding skill.
-Post the linked list in this Outstanding conversation.
-Open a PR on dannywong999/Teams against Architelier only when tasks/outstanding.md changed.
-If Gmail, Drive, or Calendar is unavailable, report the failure and do not rewrite the list from memory.
-Never send email or contact a client.
+Every weekday at 8:00 AM America/Vancouver, run Reconcile outstanding.
+Update descriptions and priorities if mail or calendar changed the facts.
+Keep done history. Post open+waiting (P1 first) in this conversation.
+PR on dannywong999/Teams / Architelier only if tasks/outstanding.md changed.
+If a source is missing, report failure; do not guess. Never send email.
 ```
 
-## How Teams `@Cursor` talks to this Bot
+## What @Cursor may send you
 
-They share `tasks/outstanding.md`. They do not share a live chat.
+Examples of assignments you must handle:
 
-| You say in Teams | What happens |
-| --- | --- |
-| `@Cursor list outstanding` | Cloud Agent reads the file and replies on the Teams card |
-| `@Cursor add outstanding: …` | Cloud Agent adds a row and opens/updates a PR |
-| `@Cursor done T-007` | Cloud Agent moves the row to Done |
-
-The Grok Bot then refreshes the same file on the weekday routine (or when you message it in Grok Bot).
+- New: “Track resend of invoice 22280 to Medcorp accounting, P2.”
+- Existing: “Update T-005 description: access letter is CF-2026-002887.”
+- Priority: “Make T-004 P1.”
+- Status: “T-007 is done.” / “T-008 is waiting on the city.”
+- List: “List outstanding.” / “List done.” / “List all.”
 
 ## Safety
 
-- Approvals required for send, delete, publish, or calendar invites
-- Public GitHub is not a drawing archive
+Approvals required to send, delete, publish, or invite. This GitHub repo is not a drawing archive.
