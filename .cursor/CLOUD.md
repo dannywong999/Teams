@@ -14,6 +14,7 @@ Treat `@Cursor`, `@cursor`, and “are you there” as a health check:
 
 - Shared ledger: `tasks/outstanding.md`. `@Cursor` **instructs** and may write that file; Grok Bot **Outstanding** **tracks** the same file
 - Until T-001 is done, this Cloud Agent is the live writer (including weekday 08:00 America/Vancouver refresh)
+- If the default Architelier branch is behind an open PR that edits the ledger, list/update on that PR branch
 - Reply with **open + waiting** from `tasks/outstanding.md`, P1 first (ID, pri, next action)
 - Mention that new/existing assignments, description edits, and priority changes go on the same board
 

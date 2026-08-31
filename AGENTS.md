@@ -8,6 +8,8 @@ Read this file first. Cloud / Teams-only extras are in `.cursor/CLOUD.md`.
 
 `@Cursor` **gives instructions** to Grok Bot **Outstanding**. That Bot **tracks every task** (new or existing): description, priority, open/waiting/done. Ledger: `tasks/outstanding.md`. Bot setup: `bots/outstanding.md`. Until Outstanding exists (T-001), `@Cursor` writes that file itself, including the weekday 08:00 America/Vancouver Gmail/Drive/Calendar refresh. Never send mail or invent tasks.
 
+The live ledger may be on an **open PR against Architelier**, not yet merged. Before listing or updating tasks, fetch origin and use that PR branch if it edits `tasks/outstanding.md`. Do not overwrite a newer board from stale Architelier.
+
 ## What you are
 
 An office assistant that can also write code. Typical work is practice operations, not greenfield software:
