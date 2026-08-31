@@ -5,8 +5,8 @@ Canonical ledger for **all** Architelier work items — open, waiting, and done.
 `@Cursor` (Teams) **instructs**. Grok Bot **Outstanding** **tracks**. They share this file.
 
 - Time zone: `America/Vancouver`
-- Next ID: `T-016`
-- Last refreshed: 2026-08-31 (Cloud Agent reconcile: Gmail + Drive + Calendar)
+- Next ID: `T-017`
+- Last refreshed: 2026-08-31 (weekday 08:00 America/Vancouver Cloud Agent reconcile: Gmail + Drive + Calendar)
 - Weekday 08:00 America/Vancouver refresh: this Cloud Agent runs it until T-001 closes (Grok Bot Outstanding then owns the routine). Re-subscribe the timer before it expires (currently 2026-09-07).
 - Never log fees, invoice amounts, personal appointments, or home addresses
 - Never delete a task; move it to Done with a closed date
@@ -46,7 +46,6 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 | T-003 | P1 | open | 750 Pacific | Review unread DP-2026-00681 city update; draft only |
 | T-004 | P1 | open | Vulcan Way | Draft 3.2.2.76 update for Avan; do not send |
 | T-006 | P1 | open | Farm market | Weekend package promise (28 Aug) has passed; still unsent |
-| T-010 | P2 | open | Oak Station Dental | Read unread Gary 28 Aug follow-up; draft reply |
 | T-012 | P2 | open | Capital Direct | Unread code/CAD mail; answer shower accessibility |
 | T-014 | P2 | open | 501 Nelson | Draft reply to Coquitlam additional-unit mail; do not send |
 | T-013 | P2 | open | 5514 Smith Ave | Read unread 28 Aug Helen forward on height / excavation |
@@ -55,6 +54,8 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 | T-001 | P2 | open | Grok Bot | Create Bot Outstanding and weekday routine |
 | T-011 | P3 | waiting | CU Vision | Danny replied 30 Aug; wait on contractor / SE |
 | T-008 | P3 | waiting | Hair salon | Revised IFP sent 31 Aug; wait on city occupancy |
+| T-010 | P3 | waiting | Oak Station Dental | Danny replied 31 Aug; wait on designer / client |
+| T-016 | P3 | waiting | Medora Seymour | Field-review reply sent 31 Aug 08:00 Pacific; wait |
 | T-009 | P3 | waiting | ATR Expansion | Wait on client; no new mail this refresh |
 
 ## Records
@@ -66,7 +67,7 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Description:** Standing tracker in Cursor. Sign in as dwong@architelier.com (Pro+ includes Grok Bot). Create Bot `Outstanding` from `bots/outstanding.md`. Weekday 08:00 America/Vancouver routine reconciles this file. Until that Bot exists, this Cloud Agent runs the same weekday refresh (Gmail + Drive + Calendar → this file). No mail is sent.
 - **Next:** Create the Bot, paste profile, save skill, enable the weekday routine, test once. Then this Cloud Agent stops covering the 08:00 run.
 - **Source:** this workspace; Cursor support (ticket T-F24808) confirmed Grok account link is permanent — do not delete dwong@architelier.com to move SuperGrok
-- **Last instruction:** @Cursor 2026-08-31: still no Bot; Cloud Agent weekday timer covers the refresh until T-001 is done (timer expires 2026-09-07; renew if still open)
+- **Last instruction:** @Cursor 2026-08-31 weekday 08:00: still no Bot (zero sand agents); Cloud Agent weekday timer covers the refresh until T-001 is done (timer expires 2026-09-07; renew-weekday-outstanding-timer already set)
 - **Updated:** 2026-08-31
 
 ### T-002 — Link Cursor to work Teams
@@ -140,13 +141,13 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Updated:** 2026-08-31
 
 ### T-010 — Oak Station Dental / Dr. Chris Low
-- **Status:** open
-- **Priority:** P2
+- **Status:** waiting
+- **Priority:** P3
 - **Project:** Oak Station Dental
-- **Description:** Courtney (Opal) sent permit bases 14 Aug for 1055 West Broadway Unit 201. Gary followed up 28 Aug; that mail is still unread. Drive folder `2602 - 1055 West Broadway, Unit 201 (Chris)` opened 30 Aug. Job #2602.
-- **Next:** Read Gary’s 28 Aug follow-up. Draft a reply for Danny. Do not send unless Danny says send.
-- **Source:** courtney@opaldesignstudio.ca / gary@medcorp.ca; unread 28 Aug 04:37 Pacific
-- **Last instruction:** @Cursor 2026-08-31 reconcile: new from unread client follow-up, P2 (waiting on us this week)
+- **Description:** Courtney (Opal) sent permit bases 14 Aug for 1055 West Broadway Unit 201. Gary followed up 28 Aug. Danny replied 31 Aug 05:30 Pacific: submit with the attached drawing; M&E not required for dental-office acceptance; application documents still needed. Drive folder `2602 - 1055 West Broadway, Unit 201 (Chris)`. Job #2602.
+- **Next:** Wait on designer / client. No chase unless Danny asks.
+- **Source:** courtney@opaldesignstudio.ca / gary@medcorp.ca; Danny sent 31 Aug 05:30 Pacific
+- **Last instruction:** @Cursor 2026-08-31 weekday 08:00: Danny replied; ball elsewhere → waiting P3
 - **Updated:** 2026-08-31
 
 ### T-011 — CU Vision 6388 No. 3 Rd SE sign-off
@@ -197,6 +198,16 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Next:** Review city notes and draft schedule/drawing revisions for Danny. Do not send. Do not invent permit conclusions.
 - **Source:** ameer@seasonscontractingltd.com, 26 Aug
 - **Last instruction:** @Cursor 2026-08-31 reconcile: new from city notes waiting on us, P2
+- **Updated:** 2026-08-31
+
+### T-016 — Medora Medical Clinic 1065 Seymour field reviews
+- **Status:** waiting
+- **Priority:** P3
+- **Project:** Medora Seymour
+- **Description:** Aman (Aquavolt) sent rough-in field review reports 28 Aug for Medora Medical Clinic/Pharmacy at 1065 Seymour St (job 25163). Danny replied 31 Aug 08:00 Pacific “As attached.” Drive folder `2509 - 1065 Seymour Street (Medora)`. Do not invent permit conclusions.
+- **Next:** Wait on consultant / contractor. No chase unless Danny asks.
+- **Source:** aman@aquavolt.ca 28 Aug; Danny sent 31 Aug 08:00 Pacific
+- **Last instruction:** @Cursor 2026-08-31 weekday 08:00: new from sent field-review reply, waiting P3
 - **Updated:** 2026-08-31
 
 ## Done
