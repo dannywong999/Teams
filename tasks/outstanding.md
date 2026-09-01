@@ -5,8 +5,8 @@ Canonical ledger for **all** Architelier work items — open, waiting, and done.
 `@Cursor` (Teams) **instructs**. Grok Bot **Outstanding** **tracks**. They share this file.
 
 - Time zone: `America/Vancouver`
-- Next ID: `T-026`
-- Last refreshed: 2026-09-01 (weekday 08:00 America/Vancouver Cloud Agent reconcile: Gmail + Drive + Calendar)
+- Next ID: `T-027`
+- Last refreshed: 2026-09-01 (weekday 08:00 America/Vancouver Cloud Agent reconcile; catch-up added unread Evolve Park Royal)
 - Weekday 08:00 America/Vancouver refresh: this Cloud Agent runs it until T-001 closes (Grok Bot Outstanding then owns the routine). Re-subscribe the timer before it expires (currently 2026-09-07).
 - Never log fees, invoice amounts, personal appointments, or home addresses
 - Never delete a task; move it to Done with a closed date
@@ -50,6 +50,7 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 | T-016 | P2 | open | Medora Seymour | Unread Hark firestop submittal 1 Sep; review; do not invent |
 | T-018 | P2 | open | Kamloops office | Unread MAK new-project mail; draft only |
 | T-019 | P2 | open | May Nails Lounge | CoV comments need Danny’s seal; draft; do not send |
+| T-026 | P2 | open | Evolve Park Royal | Unread layout change; draft two revised quotes; do not send |
 | T-014 | P2 | open | 501 Nelson | Draft reply to Coquitlam additional-unit mail; do not send |
 | T-013 | P2 | open | 5514 Smith Ave | Draft height/excavation response for Danny; do not send |
 | T-015 | P2 | open | Dr. Au Hastings | City notes 26 Aug; schedules/drawings still unrevised |
@@ -307,6 +308,16 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Next:** Wait on the coordination meeting / SSDG. No chase unless Danny asks.
 - **Source:** lreid@ssdg.com 31 Aug; Danny sent 1 Sep 07:01 Pacific
 - **Last instruction:** @Cursor 2026-09-01 weekday 08:00: new, status waiting
+- **Updated:** 2026-09-01
+
+### T-026 — Evolve Park Royal layout change
+- **Status:** open
+- **Priority:** P2
+- **Project:** Evolve Park Royal
+- **Description:** Unread 1 Sep 08:06 Pacific from Ehsan (Vali Design): BP issued; Axiom awarded; layout change (treatment rooms / existing middle / sublease). Asks for two revised quotes (main area vs sublease) for permit amendment and tender drawings. Backgrounds in about a week. Ehsan OOO 1–19 Sep. Do not log quote amounts on this board. Do not invent permit conclusions.
+- **Next:** Read the unread mail and attached layout. Draft two revised quotes for Danny. Do not send.
+- **Source:** ehsan@validesign.ca, 1 Sep 08:06 Pacific, UNREAD. Attachment `2608 - Evolve Park Royal - IFP - 26.08.27 (Layout)-3.0 Code.pdf`.
+- **Last instruction:** @Cursor 2026-09-01 catch-up: new from unread consultant mail, P2
 - **Updated:** 2026-09-01
 
 ## Done
