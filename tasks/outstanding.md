@@ -6,7 +6,7 @@ Canonical ledger for **all** Architelier work items — open, waiting, and done.
 
 - Time zone: `America/Vancouver`
 - Next ID: `T-027`
-- Last refreshed: 2026-09-01 (weekday 08:00 America/Vancouver Cloud Agent reconcile; catch-up added unread Evolve Park Royal)
+- Last refreshed: 2026-09-01 (weekday 08:00 America/Vancouver Cloud Agent reconcile; catch-up added unread Evolve Park Royal, then reopened T-023 after Fusion Zoom ask)
 - Weekday 08:00 America/Vancouver refresh: this Cloud Agent runs it until T-001 closes (Grok Bot Outstanding then owns the routine). Re-subscribe the timer before it expires (currently 2026-09-07).
 - Never log fees, invoice amounts, personal appointments, or home addresses
 - Never delete a task; move it to Done with a closed date
@@ -51,6 +51,7 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 | T-018 | P2 | open | Kamloops office | Unread MAK new-project mail; draft only |
 | T-019 | P2 | open | May Nails Lounge | CoV comments need Danny’s seal; draft; do not send |
 | T-026 | P2 | open | Evolve Park Royal | Unread layout change; draft two revised quotes; do not send |
+| T-023 | P2 | open | Evolution New West | Fusion asked for Zoom strategy meeting; draft times; do not send |
 | T-014 | P2 | open | 501 Nelson | Draft reply to Coquitlam additional-unit mail; do not send |
 | T-013 | P2 | open | 5514 Smith Ave | Draft height/excavation response for Danny; do not send |
 | T-015 | P2 | open | Dr. Au Hastings | City notes 26 Aug; schedules/drawings still unrevised |
@@ -64,7 +65,6 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 | T-020 | P3 | waiting | Dr Sharma | Washroom dimension sent 1 Sep; wait on Medcorp |
 | T-021 | P3 | waiting | Symmetry Lighting | Closeout list sent 1 Sep; wait on contractor |
 | T-022 | P3 | waiting | 22339 48 Ave | Code comments sent 1 Sep; wait on Canadian Blueprint |
-| T-023 | P3 | waiting | Evolution New West | PID/legal reply sent 1 Sep; wait on Fusion |
 | T-024 | P3 | waiting | Scupper | Drawing-change note sent 1 Sep; wait on SBA |
 | T-025 | P3 | waiting | Vancity Chinatown | Danny replied 1 Sep on coordination meeting |
 
@@ -281,13 +281,13 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Updated:** 2026-09-01
 
 ### T-023 — Evolution Canada 11 Eighth St BP015516
-- **Status:** waiting
-- **Priority:** P3
+- **Status:** open
+- **Priority:** P2
 - **Project:** Evolution New West
-- **Description:** Fusion (Tushar / Sandra) forwarded City of New Westminster PID / legal-description questions 31 Aug for Units 1102 & 1200. Danny replied 1 Sep 06:04 Pacific: ask the city to check again; documents have been signed repeatedly.
-- **Next:** Wait on Fusion / city. No chase unless Danny asks.
-- **Source:** tbarot@fusion-projects.com / schapman@fusion-projects.com 31 Aug; Danny sent 1 Sep 06:04 Pacific
-- **Last instruction:** @Cursor 2026-09-01 weekday 08:00: new, status waiting
+- **Description:** Fusion (Tezun / Sandra) forwarded City of New Westminster PID / legal-description and Schedule B (PDF/A) questions 31 Aug for Units 1102 & 1200. Danny replied 1 Sep 06:04 Pacific: ask the city to check again; documents have been signed repeatedly; PID is client info. Sandra Chapman wrote 1 Sep 08:11 Pacific asking to set up a Zoom to review together and form a strategy so as not to upset the city.
+- **Next:** Draft a reply proposing Zoom times for Danny, Tezun, and Sandra. Do not send. Do not invent PID, legal-description, or PDF/A conclusions.
+- **Source:** tbarot@fusion-projects.com / schapman@fusion-projects.com 31 Aug; Danny sent 1 Sep 06:04 Pacific; unread Sandra 1 Sep 08:11 Pacific
+- **Last instruction:** @Cursor 2026-09-01 catch-up: Fusion Zoom ask reopened this from waiting
 - **Updated:** 2026-09-01
 
 ### T-024 — Scupper drawing change (SBA)
