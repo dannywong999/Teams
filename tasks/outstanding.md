@@ -5,8 +5,8 @@ Canonical ledger for **all** Architelier work items — open, waiting, and done.
 `@Cursor` (Teams) **instructs**. Grok Bot **Outstanding** **tracks**. They share this file.
 
 - Time zone: `America/Vancouver`
-- Next ID: `T-027`
-- Last refreshed: 2026-09-01 (weekday 08:00 America/Vancouver Cloud Agent reconcile; catch-up added unread Evolve Park Royal, then reopened T-023 after Fusion Zoom ask)
+- Next ID: `T-034`
+- Last refreshed: 2026-09-02 (weekday 08:00 America/Vancouver Cloud Agent reconcile)
 - Weekday 08:00 America/Vancouver refresh: this Cloud Agent runs it until T-001 closes (Grok Bot Outstanding then owns the routine). Re-subscribe the timer before it expires (currently 2026-09-07).
 - Never log fees, invoice amounts, personal appointments, or home addresses
 - Never delete a task; move it to Done with a closed date
@@ -42,31 +42,38 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 
 | ID | Pri | Status | Project | Next action |
 | --- | --- | --- | --- | --- |
-| T-005 | P1 | open | The Key | Site visit **today** 1 Sep 11:00; read unread CF-2026-002887 |
+| T-023 | P1 | open | Evolution New West | Fusion Zoom **today** 2 Sep 10:00; not on Google Calendar |
+| T-028 | P1 | open | Giligson Granville | Unread Medcorp schedules for final inspection; draft only |
 | T-017 | P1 | open | 4488 Main | Unread VCH sink-label ask + unread CoV completeness; draft only |
-| T-003 | P1 | open | 750 Pacific | Review unread DP-2026-00681 city update; draft only |
-| T-004 | P1 | open | Vulcan Way | Draft 3.2.2.76 update for Avan; do not send |
 | T-006 | P1 | open | Farm market | Weekend package promise (28 Aug) has passed; still unsent |
-| T-016 | P2 | open | Medora Seymour | Unread Hark firestop submittal 1 Sep; review; do not invent |
-| T-018 | P2 | open | Kamloops office | Unread MAK new-project mail; draft only |
-| T-019 | P2 | open | May Nails Lounge | CoV comments need Danny’s seal; draft; do not send |
+| T-027 | P2 | open | New Gen Concrete | Unread Orion: sealed IFC + BP Revision for discovery 8 Sep |
 | T-026 | P2 | open | Evolve Park Royal | Unread layout change; draft two revised quotes; do not send |
-| T-023 | P2 | open | Evolution New West | Fusion asked for Zoom strategy meeting; draft times; do not send |
+| T-029 | P2 | open | Mobility ramp | Unread Bayside ramp ask; draft only |
+| T-030 | P2 | open | Denman Dental | Unread Ehsan structural intro; draft only |
+| T-019 | P2 | open | May Nails Lounge | CoV comments need Danny’s seal; draft; do not send |
+| T-016 | P2 | open | Medora Seymour | Hark firestop now read; draft reply if needed; do not invent |
 | T-014 | P2 | open | 501 Nelson | Draft reply to Coquitlam additional-unit mail; do not send |
-| T-013 | P2 | open | 5514 Smith Ave | Draft height/excavation response for Danny; do not send |
 | T-015 | P2 | open | Dr. Au Hastings | City notes 26 Aug; schedules/drawings still unrevised |
+| T-005 | P2 | open | The Key | Visit was 1 Sep; CF-2026-002887 still unread |
+| T-003 | P2 | open | 750 Pacific | DP-2026-00681 now read; confirm if more is needed |
 | T-002 | P2 | open | Teams | Reply to Microsoft case 2608310010000403 |
 | T-001 | P2 | open | Grok Bot | Create Bot Outstanding and weekday routine |
+| T-018 | P3 | waiting | Kamloops office | Danny asked budget 2 Sep; wait on MAK |
+| T-013 | P3 | waiting | 5514 Smith Ave | Assembly comments sent 2 Sep; wait on design team |
+| T-004 | P3 | waiting | Vulcan Way | 3.2.2.76 sent 1 Sep; wait on Avan |
 | T-012 | P3 | waiting | Capital Direct | Comments sent 1 Sep; wait on SSDG |
 | T-011 | P3 | waiting | CU Vision | Danny replied 30 Aug; wait on contractor / SE |
-| T-008 | P3 | waiting | Hair salon | Revised IFP sent 31 Aug; wait on city occupancy |
+| T-008 | P3 | waiting | Hair salon | Sprinkler is landlord system; wait on Ehsan / landlord |
 | T-010 | P3 | waiting | Oak Station Dental | Danny replied 31 Aug; wait on designer / client |
 | T-009 | P3 | waiting | ATR Expansion | Danny 1 Sep: use prior spreadsheet; wait on Tracy |
 | T-020 | P3 | waiting | Dr Sharma | Washroom dimension sent 1 Sep; wait on Medcorp |
-| T-021 | P3 | waiting | Symmetry Lighting | Closeout list sent 1 Sep; wait on contractor |
+| T-021 | P3 | waiting | Symmetry Lighting | Closeout + permit-expiry note sent 1 Sep; wait on contractor |
 | T-022 | P3 | waiting | 22339 48 Ave | Code comments sent 1 Sep; wait on Canadian Blueprint |
 | T-024 | P3 | waiting | Scupper | Drawing-change note sent 1 Sep; wait on SBA |
 | T-025 | P3 | waiting | Vancity Chinatown | Danny replied 1 Sep on coordination meeting |
+| T-031 | P3 | waiting | 3071 No 5 Rd | Asked Richmond for permit copy 1 Sep; wait on city |
+| T-032 | P3 | waiting | Adler Group | Schedule A re-signed 1 Sep; wait on Fusion |
+| T-033 | P3 | waiting | Plaza of Nations | Drawings sent to CoV 1 Sep; wait on city |
 
 ## Records
 
@@ -77,8 +84,8 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Description:** Standing tracker in Cursor. Sign in as dwong@architelier.com (Pro+ includes Grok Bot). Create Bot `Outstanding` from `bots/outstanding.md`. Weekday 08:00 America/Vancouver routine reconciles this file. Until that Bot exists, this Cloud Agent runs the same weekday refresh (Gmail + Drive + Calendar → this file). No mail is sent.
 - **Next:** Create the Bot, paste profile, save skill, enable the weekday routine, test once. Then this Cloud Agent stops covering the 08:00 run.
 - **Source:** this workspace; Cursor support (ticket T-F24808) confirmed Grok account link is permanent — do not delete dwong@architelier.com to move SuperGrok
-- **Last instruction:** @Cursor 2026-09-01 weekday 08:00: still no Bot (zero sand agents); Cloud Agent weekday timer covers the refresh until T-001 is done (timer expires 2026-09-07; renew-weekday-outstanding-timer already set)
-- **Updated:** 2026-09-01
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: still no Bot; Cloud Agent weekday timer covers the refresh until T-001 is done (timer expires 2026-09-07; renew-weekday-outstanding-timer already set)
+- **Updated:** 2026-09-02
 
 ### T-002 — Link Cursor to work Teams
 - **Status:** open
@@ -92,33 +99,33 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 
 ### T-003 — DP-2026-00681 750 Pacific Boulevard
 - **Status:** open
-- **Priority:** P1
+- **Priority:** P2
 - **Project:** 750 Pacific
-- **Description:** Unread City of Vancouver development-permit application update. Review before acting; do not invent permit conclusions.
-- **Next:** Open the 28 Aug mail from permits@vancouver.ca and draft any reply for Danny. Do not send.
-- **Source:** permits@vancouver.ca, 28 Aug 16:01 Pacific, still UNREAD
-- **Last instruction:** @Cursor 2026-09-01 weekday 08:00: still unread city mail → keep P1
-- **Updated:** 2026-09-01
+- **Description:** City of Vancouver development-permit application update (28 Aug) is now read. Danny sent related Plaza of Nations drawings to Rob Rattray (CoV) 1 Sep 12:53 Pacific. Do not invent permit conclusions.
+- **Next:** Confirm whether DP-2026-00681 still needs a reply after the 1 Sep send. Draft only if needed; do not send.
+- **Source:** permits@vancouver.ca, 28 Aug 16:01 Pacific (read); Danny sent 1 Sep 12:52 Pacific on case 201003538554
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: city mail no longer unread → P2
+- **Updated:** 2026-09-02
 
 ### T-004 — 13631 Vulcan Way Unit 125 code analysis
-- **Status:** open
-- **Priority:** P1
+- **Status:** waiting
+- **Priority:** P3
 - **Project:** Vulcan Way
-- **Description:** Avan asked to update BCBC 3.2.2.76 and send the code analysis. Building Permit 26-019802. Draft for Danny’s review; do not send unless asked. Do not invent code conclusions.
-- **Next:** Draft the 3.2.2.76 update and hold for Danny
-- **Source:** Avan Chen, 28 Aug 21:27 Pacific, still UNREAD
-- **Last instruction:** @Cursor 2026-09-01 weekday 08:00: Avan still unread → keep P1
-- **Updated:** 2026-09-01
+- **Description:** Avan asked to update BCBC 3.2.2.76 and send the code analysis. Building Permit 26-019802. Danny replied 1 Sep 08:25 Pacific with the attached analysis. Do not invent code conclusions.
+- **Next:** Wait on Avan. No chase unless Danny asks.
+- **Source:** Avan Chen, 28 Aug 21:27 Pacific; Danny sent 1 Sep 08:25 Pacific
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: analysis sent → waiting P3
+- **Updated:** 2026-09-02
 
 ### T-005 — The Key site visit
 - **Status:** open
-- **Priority:** P1
+- **Priority:** P2
 - **Project:** The Key
-- **Description:** Site visit with the City **today** Tuesday 1 Sep 2026, 11:00–12:00 Pacific (Troy Felix / Mercury Contracting invite in Gmail). Unread forward CF-2026-002887 (access) from Troy. Invite is **not** on the Google Calendar this run (calendar empty for the next 7 days — do not put personal events on this board).
-- **Next:** Read unread CF-2026-002887; prep / attend 1 Sep 11:00. Draft a city reply only if needed; do not send.
+- **Description:** Site visit with the City was Tuesday 1 Sep 2026, 11:00–12:00 Pacific (Troy Felix / Mercury Contracting invite in Gmail). CF-2026-002887 access forward from Troy is still unread. Invite was **not** on Google Calendar (calendar empty for the next 7 days — do not put personal events on this board).
+- **Next:** Read unread CF-2026-002887. Draft any post-visit city reply for Danny. Do not send.
 - **Source:** troy@mercurycontracting.com, 28 Aug, UNREAD city forward + Gmail invite
-- **Last instruction:** @Cursor 2026-09-01 weekday 08:00: visit is **today** 11:00; CF letter still unread; still not on Google Calendar → keep P1
-- **Updated:** 2026-09-01
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: visit was yesterday; CF still unread → P2
+- **Updated:** 2026-09-02
 
 ### T-006 — Farm market list package
 - **Status:** open
@@ -127,18 +134,18 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Description:** Danny told Dave (WHG Design) on 28 Aug he would package the farm-market list **this weekend** (29–30 Aug). That window has passed. Thread still unread. This is the Dave / WHG list package, not a separate Kerr Street filing.
 - **Next:** Assemble the package and draft (or send only if Danny says send) to Dave
 - **Source:** dave@whgdesign.ca, 27–28 Aug, UNREAD
-- **Last instruction:** @Cursor 2026-09-01 weekday 08:00: still no sent package → keep P1
-- **Updated:** 2026-09-01
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: still no sent package → keep P1
+- **Updated:** 2026-09-02
 
 ### T-008 — Hair salon address suffix
 - **Status:** waiting
 - **Priority:** P3
 - **Project:** Hair salon
-- **Description:** City requires unit suffix A and “Avenue” (not Ave). Danny sent revised IFP / schedules to Ehsan 31 Aug. Drive: `2613 - Booked - IFP - 26.08.30.pdf`.
-- **Next:** Wait for city / consultant confirmation. No chase unless Danny asks.
-- **Source:** ehsan@validesign.ca, 31 Aug; Danny reply 31 Aug 22:10 Pacific
-- **Last instruction:** @Cursor 2026-08-31 reconcile: IFP sent; keep waiting
-- **Updated:** 2026-08-31
+- **Description:** City requires unit suffix A and “Avenue” (not Ave). Danny sent revised IFP / schedules to Ehsan 31 Aug. Drive: `2613 - Booked - IFP - 26.08.30.pdf`. Ehsan wrote 1 Sep 18:24 Pacific that the sprinkler design is residential. Danny replied 1 Sep 18:51 Pacific: not possible; claim the landlord (their system). Ehsan agreed 1 Sep 19:45 Pacific (OOO 1–19 Sep).
+- **Next:** Wait on Ehsan / landlord / sprinkler. No chase unless Danny asks.
+- **Source:** ehsan@validesign.ca, 31 Aug–2 Sep; Danny sent 1 Sep 18:51 Pacific
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: sprinkler is landlord system; keep waiting
+- **Updated:** 2026-09-02
 
 ### T-009 — ATR existing paint booth
 - **Status:** waiting
@@ -181,14 +188,14 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Updated:** 2026-09-01
 
 ### T-013 — 5514 Smith Ave height / excavation
-- **Status:** open
-- **Priority:** P2
+- **Status:** waiting
+- **Priority:** P3
 - **Project:** 5514 Smith Ave
-- **Description:** Unread 28 Aug forward from Helen: please check an excavation scheme (one-foot down; keep front level, drop rear) against the zoning 9.5 m height limit, aiming for 8'-6" ceilings on second and top floors. Danny is architect of record on the coordination thread with Canadian Blueprint / Rion / Voltas. Do not invent zoning conclusions.
-- **Next:** Read the unread forward. Draft a height/excavation response for Danny. Do not send.
-- **Source:** helen_maison@vip.163.com, 28 Aug 13:40 Pacific, UNREAD
-- **Last instruction:** @Cursor 2026-08-31 reconcile: new from unread design-team mail, P2
-- **Updated:** 2026-08-31
+- **Description:** Canadian Blueprint sent latest PDF/CAD 1 Sep 11:30 Pacific. Danny replied 2 Sep 00:33 Pacific with assembly comments from that day’s meeting (exterior walls 2x6 c/w R24 batt; party walls double 2x4; floor assembly). Earlier unread 28 Aug Helen forward on excavation vs 9.5 m height is superseded by this coordination send. Do not invent zoning conclusions.
+- **Next:** Wait on design team / consultants. No chase unless Danny asks.
+- **Source:** design@canadianblueprint.ca 1 Sep; Danny sent 2 Sep 00:33 Pacific
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: assembly comments sent → waiting P3
+- **Updated:** 2026-09-02
 
 ### T-014 — 501 Nelson St additional unit
 - **Status:** open
@@ -214,11 +221,11 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Status:** open
 - **Priority:** P2
 - **Project:** Medora Seymour
-- **Description:** Aman (Aquavolt) sent rough-in field review reports 28 Aug for Medora Medical Clinic/Pharmacy at 1065 Seymour St (job 25163). Danny replied 31 Aug 08:00 Pacific “As attached.” Hark forwarded an unread 1 Sep firestop submittal and letter. Drive folder `2509 - 1065 Seymour Street (Medora)`. Do not invent permit conclusions.
-- **Next:** Read the unread Hark firestop forward. Draft any architect reply for Danny. Do not send.
-- **Source:** aman@aquavolt.ca 28 Aug; Hark 1 Sep 03:08 UTC, UNREAD
-- **Last instruction:** @Cursor 2026-09-01 weekday 08:00: unread firestop → open P2
-- **Updated:** 2026-09-01
+- **Description:** Aman (Aquavolt) sent rough-in field review reports 28 Aug for Medora Medical Clinic/Pharmacy at 1065 Seymour St (job 25163). Danny replied 31 Aug 08:00 Pacific “As attached.” Hark forwarded a 1 Sep firestop submittal and letter (now read). Drive folder `2509 - 1065 Seymour Street (Medora)`. Do not invent permit conclusions.
+- **Next:** Draft any architect reply on the Hark firestop submittal for Danny. Do not send.
+- **Source:** aman@aquavolt.ca 28 Aug; Hark 1 Sep 03:08 UTC (read)
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: firestop no longer unread; still needs architect reply → keep P2
+- **Updated:** 2026-09-02
 
 ### T-017 — 4488 Main St DB-2026-02496 / VCH
 - **Status:** open
@@ -227,18 +234,18 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Description:** Unread City of Vancouver completeness follow-up from Joy Chen 31 Aug (contractor Richmond business license still needed) and unread DB-2026-02496 application update the same evening. VCH (Jennifer Kassimatis) asked 31 Aug–1 Sep about equipment and owners; Danny replied twice; latest VCH mail is **unread**: label sinks (handwashing / food prep / mop). Do not invent health or permit conclusions.
 - **Next:** Read the unread VCH and CoV mail. Draft sink labels and any completeness reply for Danny. Do not send.
 - **Source:** Jennifer.Kassimatis@vch.ca UNREAD 31 Aug 17:47 Pacific; Joy.Chen@vancouver.ca UNREAD 31 Aug 15:18 Pacific; permits@vancouver.ca UNREAD 31 Aug 15:22 Pacific
-- **Last instruction:** @Cursor 2026-09-01 weekday 08:00: new from unread city + VCH → P1
-- **Updated:** 2026-09-01
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: VCH + CoV still unread → keep P1
+- **Updated:** 2026-09-02
 
 ### T-018 — Kamloops office reno (MAK)
-- **Status:** open
-- **Priority:** P2
+- **Status:** waiting
+- **Priority:** P3
 - **Project:** Kamloops office
-- **Description:** Unread 1 Sep mail from Colin (MAK Interiors): small office reno in Kamloops — new office and a second washroom; plan attached; mechanical mentioned. No Architelier reply.
-- **Next:** Read the unread mail and attached plan. Draft a reply for Danny. Do not send. Do not invent code conclusions.
-- **Source:** colin@makinteriors.ca, 1 Sep 04:19 UTC, UNREAD
-- **Last instruction:** @Cursor 2026-09-01 weekday 08:00: new from unread client mail, P2
-- **Updated:** 2026-09-01
+- **Description:** Colin (MAK Interiors) sent 1 Sep: small office reno in Kamloops — new office and a second washroom; plan attached; mechanical mentioned. Danny replied 2 Sep 08:06 Pacific: happy to help; asked if there is a specific budget.
+- **Next:** Wait on MAK / Colin. No chase unless Danny asks. Do not invent code conclusions.
+- **Source:** colin@makinteriors.ca, 1 Sep; Danny sent 2 Sep 08:06 Pacific
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: budget question sent → waiting P3
+- **Updated:** 2026-09-02
 
 ### T-019 — May Nails Lounge CoV comments
 - **Status:** open
@@ -264,11 +271,11 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Status:** waiting
 - **Priority:** P3
 - **Project:** Symmetry Lighting
-- **Description:** Susmitha (Merola) asked 31 Aug for closeout documents. Danny replied 1 Sep 07:16 Pacific: obtain Schedule CB from mech and structural; seismic sign-off; FA and sprinkler verification; emergency light testing; current photos.
-- **Next:** Wait on contractor. No chase unless Danny asks.
-- **Source:** Susmitha@merolacon.com 31 Aug; Danny sent 1 Sep 07:16 Pacific
-- **Last instruction:** @Cursor 2026-09-01 weekday 08:00: new, status waiting
-- **Updated:** 2026-09-01
+- **Description:** Susmitha (Merola) asked 31 Aug for closeout documents. Danny replied 1 Sep 07:16 Pacific: obtain Schedule CB from mech and structural; seismic sign-off; FA and sprinkler verification; emergency light testing; current photos. City inspector Steve Voskakis wrote 1 Sep 08:43 Pacific that BP-2021-05603 is coming up for expiry. Danny forwarded 1 Sep 09:00 Pacific asking Susmitha to respond to Steve.
+- **Next:** Wait on contractor / city. No chase unless Danny asks.
+- **Source:** Susmitha@merolacon.com 31 Aug; Steve.Voskakis@vancouver.ca 1 Sep; Danny sent 1 Sep 07:16 and 09:00 Pacific
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: permit-expiry note forwarded; keep waiting
+- **Updated:** 2026-09-02
 
 ### T-022 — 22339 48 Ave contract drawings
 - **Status:** waiting
@@ -282,13 +289,13 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 
 ### T-023 — Evolution Canada 11 Eighth St BP015516
 - **Status:** open
-- **Priority:** P2
+- **Priority:** P1
 - **Project:** Evolution New West
-- **Description:** Fusion (Tezun / Sandra) forwarded City of New Westminster PID / legal-description and Schedule B (PDF/A) questions 31 Aug for Units 1102 & 1200. Danny replied 1 Sep 06:04 Pacific: ask the city to check again; documents have been signed repeatedly; PID is client info. Sandra Chapman wrote 1 Sep 08:11 Pacific asking to set up a Zoom to review together and form a strategy so as not to upset the city.
-- **Next:** Draft a reply proposing Zoom times for Danny, Tezun, and Sandra. Do not send. Do not invent PID, legal-description, or PDF/A conclusions.
-- **Source:** tbarot@fusion-projects.com / schapman@fusion-projects.com 31 Aug; Danny sent 1 Sep 06:04 Pacific; unread Sandra 1 Sep 08:11 Pacific
-- **Last instruction:** @Cursor 2026-09-01 catch-up: Fusion Zoom ask reopened this from waiting
-- **Updated:** 2026-09-01
+- **Description:** Fusion (Tezun / Sandra) forwarded City of New Westminster PID / legal-description and Schedule B (PDF/A) questions 31 Aug for Units 1102 & 1200. Danny replied 1 Sep 06:04 Pacific: ask the city to check again; documents have been signed repeatedly; PID is client info. Sandra asked 1 Sep 08:11 Pacific for a Zoom to form a strategy. Tezun wrote 1 Sep 09:12 Pacific proposing **tomorrow 10:00** (Wednesday 2 Sep 10:00 Pacific). That meeting is **today**. It is **not** on Google Calendar (calendar empty for the next 7 days). No Architelier reply to the 10:00 slot found.
+- **Next:** Confirm/attend Fusion Zoom **today** 2 Sep 10:00 Pacific. If 10:00 does not work, draft a reply with other times. Do not send. Do not invent PID, legal-description, or PDF/A conclusions.
+- **Source:** tbarot@fusion-projects.com 1 Sep 09:12 Pacific; schapman@fusion-projects.com 1 Sep 08:11 Pacific
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: Tezun 10:00 today → P1
+- **Updated:** 2026-09-02
 
 ### T-024 — Scupper drawing change (SBA)
 - **Status:** waiting
@@ -317,8 +324,78 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Description:** Unread 1 Sep 08:06 Pacific from Ehsan (Vali Design): BP issued; Axiom awarded; layout change (treatment rooms / existing middle / sublease). Asks for two revised quotes (main area vs sublease) for permit amendment and tender drawings. Backgrounds in about a week. Ehsan OOO 1–19 Sep. Do not log quote amounts on this board. Do not invent permit conclusions.
 - **Next:** Read the unread mail and attached layout. Draft two revised quotes for Danny. Do not send.
 - **Source:** ehsan@validesign.ca, 1 Sep 08:06 Pacific, UNREAD. Attachment `2608 - Evolve Park Royal - IFP - 26.08.27 (Layout)-3.0 Code.pdf`.
-- **Last instruction:** @Cursor 2026-09-01 catch-up: new from unread consultant mail, P2
-- **Updated:** 2026-09-01
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: still unread consultant mail → keep P2
+- **Updated:** 2026-09-02
+
+### T-027 — New Generation Concrete sealed drawings
+- **Status:** open
+- **Priority:** P2
+- **Project:** New Gen Concrete
+- **Description:** Unread 2 Sep 08:03 Pacific from Mike Love (Orion Construction): send a copy of the sealed IFC drawings and the BP Revision drawings. Examinations for discovery Tuesday 8 Sep with New Gen Concrete. Do not invent litigation or permit conclusions.
+- **Next:** Read the unread mail. Draft the drawing send for Danny. Do not send.
+- **Source:** mlove@orionconstruction.ca, 2 Sep 08:03 Pacific, UNREAD
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: new from unread consultant mail, P2 (discovery 8 Sep)
+- **Updated:** 2026-09-02
+
+### T-028 — Giligson 240-8425 Granville schedules
+- **Status:** open
+- **Priority:** P1
+- **Project:** Giligson Granville
+- **Description:** Unread Gary (Medcorp) 1 Sep 10:15 Pacific: city wants schedules as 240-8425 Granville Street; Aquavolt CBs already initialled; sprinkler engineer attached. Follow-up 1 Sep 17:26 Pacific: please take care of this today so Gary can rebook final inspection. Still unread. Do not invent permit conclusions.
+- **Next:** Read the unread Medcorp mail. Draft signed/labelled schedules for Danny. Do not send.
+- **Source:** gary@medcorp.ca, 1 Sep 10:15 and 17:26 Pacific, UNREAD
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: new from unread inspection-blocking mail → P1
+- **Updated:** 2026-09-02
+
+### T-029 — Ramp for mobility access
+- **Status:** open
+- **Priority:** P2
+- **Project:** Mobility ramp
+- **Description:** Unread 1 Sep 10:51 Pacific from Liliana Sorescu (Bayside Property): Kevin Saito (EXP) referred her to Danny for a mobility-access ramp. No Architelier reply. Do not invent code conclusions.
+- **Next:** Read the unread mail. Draft a reply for Danny. Do not send.
+- **Source:** LSorescu@baysideproperty.com, 1 Sep 10:51 Pacific, UNREAD (Kevin.Saito@exp.com 1 Sep 10:34)
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: new from unread strata ask, P2
+- **Updated:** 2026-09-02
+
+### T-030 — Denman Dental structural coordination
+- **Status:** open
+- **Priority:** P2
+- **Project:** Denman Dental
+- **Description:** Unread 1 Sep 09:14 Pacific from Ehsan (Vali Design): introducing Danny (architect of record) to Dr. Sasan; Danny is coordinating structural and envelope engineering. No Architelier reply. Do not invent code conclusions.
+- **Next:** Read the unread intro. Draft a reply for Danny. Do not send.
+- **Source:** ehsan@validesign.ca, 1 Sep 09:14 Pacific, UNREAD
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: new from unread consultant intro, P2
+- **Updated:** 2026-09-02
+
+### T-031 — 3071 No 5 Road Unit 13 permit copy
+- **Status:** waiting
+- **Priority:** P3
+- **Project:** 3071 No 5 Rd
+- **Description:** Danny forwarded Richmond permit drawings to AMJ Construction 1 Sep 15:32 Pacific and asked Lori Parker (Richmond) 1 Sep 15:33 Pacific for the permit itself so inspections can be booked (not in the Dropbox).
+- **Next:** Wait on Richmond / Lori. No chase unless Danny asks.
+- **Source:** Danny sent 1 Sep 15:33 Pacific to lparker1@richmond.ca
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: new, status waiting
+- **Updated:** 2026-09-02
+
+### T-032 — Adler Group Schedule A re-seal
+- **Status:** waiting
+- **Priority:** P3
+- **Project:** Adler Group
+- **Description:** Nick Shears (Fusion) asked 1 Sep 10:31 Pacific to redo the digital sign and seal on Schedule A (urgent). Danny replied 1 Sep 14:59 Pacific: digitally signed; they may still come back for a date change.
+- **Next:** Wait on Fusion / city. No chase unless Danny asks.
+- **Source:** nshears@fusion-projects.com 1 Sep; Danny sent 1 Sep 14:59 Pacific
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: new, status waiting
+- **Updated:** 2026-09-02
+
+### T-033 — Plaza of Nations drawings to CoV
+- **Status:** waiting
+- **Priority:** P3
+- **Project:** Plaza of Nations
+- **Description:** Danny sent drawings 1 Sep 12:53 Pacific to Rob Rattray (City of Vancouver), cc Glenn (Mercury Contracting).
+- **Next:** Wait on CoV. No chase unless Danny asks.
+- **Source:** Danny sent 1 Sep 12:53 Pacific to rob.rattray@vancouver.ca
+- **Last instruction:** @Cursor 2026-09-02 weekday 08:00: new, status waiting
+- **Updated:** 2026-09-02
 
 ## Done
 
