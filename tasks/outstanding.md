@@ -7,7 +7,7 @@ Canonical ledger for **all** Architelier work items — open, waiting, and done.
 - Time zone: `America/Vancouver`
 - Next ID: `T-039`
 - Last refreshed: 2026-09-04 (weekday 08:00 America/Vancouver Cloud Agent reconcile)
-- Weekday 08:00 America/Vancouver refresh: this Cloud Agent runs it until T-001 closes (Grok Bot Outstanding then owns the routine). Re-subscribe the timer before it expires (currently 2026-09-07).
+- Weekday 08:00 America/Vancouver refresh: this Cloud Agent runs it until T-001 closes (Grok Bot Outstanding then owns the routine). Re-subscribe the timer before it expires (currently 2026-09-13).
 - Never log fees, invoice amounts, personal appointments, or home addresses
 - Never delete a task; move it to Done with a closed date
 
@@ -89,8 +89,8 @@ If the user states a priority, use it. If they say “urgent” / “today” / 
 - **Description:** Standing tracker in Cursor. Sign in as dwong@architelier.com (Pro+ includes Grok Bot). Create Bot `Outstanding` from `bots/outstanding.md`. Weekday 08:00 America/Vancouver routine reconciles this file. Until that Bot exists, this Cloud Agent runs the same weekday refresh (Gmail + Drive + Calendar → this file). No mail is sent.
 - **Next:** Create the Bot, paste profile, save skill, enable the weekday routine, test once. Then this Cloud Agent stops covering the 08:00 run.
 - **Source:** this workspace; Cursor support (ticket T-F24808) confirmed Grok account link is permanent — do not delete dwong@architelier.com to move SuperGrok
-- **Last instruction:** @Cursor 2026-09-04 weekday 08:00: still no Bot; Cloud Agent weekday timer covers the refresh until T-001 is done (timer expires 2026-09-07; renew-weekday-outstanding-timer already set)
-- **Updated:** 2026-09-04
+- **Last instruction:** @Cursor 2026-09-06 timer renewal: still no Bot; weekday-outstanding-reconcile re-subscribed (expires 2026-09-13); renew-weekday-outstanding-timer set ~6 days out
+- **Updated:** 2026-09-06
 
 ### T-002 — Link Cursor to work Teams
 - **Status:** open
