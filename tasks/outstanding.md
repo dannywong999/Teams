@@ -21,16 +21,17 @@ Canonical live list of Architelier work. `@Cursor` instructs (drafts, replies, a
 
 ## Index
 
-Last refreshed: 2026-09-07 (weekday 08:00 America/Vancouver). Next ID: **T-041**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-09-13.
+Last refreshed: 2026-09-08 (weekday 08:00 America/Vancouver). Next ID: **T-042**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-09-13.
 
 | ID | Pri | Status | Next |
 | --- | --- | --- | --- |
 | T-003 | P1 | open | Unread Rob Rattray change-of-use notes; draft only |
 | T-017 | P1 | open | Unread VCH sink labels + unread CoV completeness; draft only |
 | T-006 | P1 | open | Farm-market list package still unsent (Dave / WHG; not 7128 Kerr; not 7953) |
+| T-019 | P1 | open | Unread Thai 8 Sep: initial Schedule B as CRP (May Nails); draft only |
 | T-013 | P2 | open | Unread Helen stem-wall / Unit 6; Rion asked Edward 4 Sep; Blueprint sending updated plans |
-| T-039 | P2 | open | Unread Hyderabad Biryani (6231 Fraser) 5 Sep: 3 washrooms + DP; draft only |
-| T-022 | P2 | open | Unread Laurent 6 Sep 90% MP HVAC review (22339) |
+| T-039 | P2 | open | Unread Hyderabad Biryani (6231 Fraser) 7 Sep: women’s washroom 78×62 in; draft only |
+| T-022 | P2 | open | Unread Laurent 6 Sep 90% MP HVAC review (22339 48 Ave) |
 | T-035 | P2 | open | Unread Dave: can pergola attach at 7953 120th; CHA CHA PATIO invite 4 Sep |
 | T-036 | P2 | open | Review Singh Beans space plan (Melissa 3 Sep; no Architelier reply yet) |
 | T-037 | P2 | open | Reotech 950 sq ft + Schedules A+B; draft only; no amounts |
@@ -38,15 +39,14 @@ Last refreshed: 2026-09-07 (weekday 08:00 America/Vancouver). Next ID: **T-041**
 | T-015 | P2 | open | Dr. Au city notes 26 Aug |
 | T-005 | P2 | open | The Key visit 1 Sep; CF-2026-002887 still unread |
 | T-023 | P2 | open | Fusion Zoom was 2 Sep 10:00; no post-meeting mail |
-| T-002 | P2 | open | Microsoft case 2608310010000403 (unread 4 Sep) |
 | T-001 | P2 | open | Create Grok Bot Outstanding |
-| T-030 | P3 | waiting | Denman: asked Dr. Sasan 6 Sep for preferred site-visit date; Ehsan OOO |
+| T-030 | P3 | waiting | Dr. Sasan 8 Sep: tenant not back yet; will follow up |
+| T-041 | P3 | waiting | 115 W 4th BP submitted CoV 8 Sep (201003624673); wait city + team on exiting |
 | T-029 | P3 | waiting | Estimate 21137 sent 6 Sep (ramp on roof membrane; Kevin/EXP); Liliana OOO |
 | T-018 | P3 | waiting | Kamloops Estimate 21136 sent 3 Sep; wait MAK |
 | T-026 | P3 | waiting | Evolve quote sent 3 Sep; Ehsan asked invoice |
-| T-027 | P3 | waiting | New Gen stamped sets sent 3 Sep (discovery was 8 Sep) |
+| T-027 | P3 | waiting | New Gen stamped sets sent 3 Sep; discovery 8 Sep |
 | T-004 | P3 | waiting | Vulcan e-stamp sent 3 Sep |
-| T-019 | P3 | waiting | May Nails James issued 3 Sep |
 | T-040 | P3 | waiting | 423 Sixth feasibility proposal sent Juan 4 Sep; wait reply |
 | T-028 | P3 | waiting | Giligson schedules sent 2 Sep |
 | T-016 | P3 | waiting | Medora firestop sent 2 Sep |
@@ -64,6 +64,7 @@ Last refreshed: 2026-09-07 (weekday 08:00 America/Vancouver). Next ID: **T-041**
 | T-031 | P3 | waiting | Chased Richmond 6 Sep for 3071 No 5 Rd permit PDF |
 | T-032 | P3 | waiting | 418 E 46th: wait City of Vancouver |
 | T-033 | P3 | waiting | 7128 Kerr: wait City of Vancouver |
+| T-002 | P3 | waiting | Asked Microsoft 8 Sep to close case 2608310010000403 |
 
 ## Records
 
@@ -72,8 +73,8 @@ Last refreshed: 2026-09-07 (weekday 08:00 America/Vancouver). Next ID: **T-041**
 - Next: Danny creates Grok Bot Outstanding in grok.com/jobs (see `bots/outstanding.md`). Until then this Cloud Agent covers weekday refresh.
 
 ### T-002 — Microsoft 365 display-name support
-- Status: open. Pri: P2.
-- Next: Case **2608310010000403**. Unread Microsoft mail 4 Sep (case received / in progress). No new unread since.
+- Status: waiting. Pri: P3.
+- Next: Case **2608310010000403**. Microsoft 8 Sep said they would close without a reply. Danny 8 Sep 01:47 Pacific: close the case; remaining issue is Cursor / Grok Bot Teams OAuth (see T-001). Wait Microsoft close.
 
 ### T-003 — Change-of-use (Rob Rattray)
 - Status: open. Pri: P1.
@@ -139,8 +140,8 @@ Last refreshed: 2026-09-07 (weekday 08:00 America/Vancouver). Next ID: **T-041**
 - Next: Estimate **21136** sent 3 Sep. Wait MAK.
 
 ### T-019 — May Nails / James issued
-- Status: waiting. Pri: P3.
-- Next: James issued 3 Sep. No later mail.
+- Status: open. Pri: P1.
+- Next: James issued 3 Sep. Thai Ly 8 Sep 07:52 Pacific **UNREAD**: initial Schedule B as CRP (to James + Danny). Draft only. Do not invent permit conclusions.
 
 ### T-020 — 418 E 46th development / rezoning (City of Vancouver)
 - Status: waiting. Pri: P3.
@@ -150,9 +151,9 @@ Last refreshed: 2026-09-07 (weekday 08:00 America/Vancouver). Next ID: **T-041**
 - Status: waiting. Pri: P3.
 - Next: Danny 4 Sep asked Susmitha for mechanical + structural coordination bulletins and current site photos.
 
-### T-022 — 22339 88 Avenue / Oneka
+### T-022 — 22339 48 Avenue / Oneka
 - Status: open. Pri: P2.
-- Next: Laurent (Integral) 6 Sep 11:23 Pacific **UNREAD** “90% MP Client Review” — HVAC configs. Earlier 3 Sep “drawings look fine” is superseded for next action.
+- Next: Laurent (Integral) 6 Sep 11:23 Pacific **UNREAD** “90% MP Client Review” — HVAC configs. Drive folder `2604 - 22339 48 Avenue` created 8 Sep (Schedule B PDF). Earlier 3 Sep “drawings look fine” is superseded for next action.
 
 ### T-023 — Evolution presentation / Fusion
 - Status: open. Pri: P2.
@@ -172,7 +173,7 @@ Last refreshed: 2026-09-07 (weekday 08:00 America/Vancouver). Next ID: **T-041**
 
 ### T-027 — New Gen / Discovery
 - Status: waiting. Pri: P3.
-- Next: Stamped sets sent 3 Sep. Discovery was 8 Sep (past).
+- Next: Stamped sets sent 3 Sep. Discovery 8 Sep.
 
 ### T-028 — Giligson / schedules
 - Status: waiting. Pri: P3.
@@ -180,15 +181,15 @@ Last refreshed: 2026-09-07 (weekday 08:00 America/Vancouver). Next ID: **T-041**
 
 ### T-029 — 2033 West 7th mobility ramp
 - Status: waiting. Pri: P3.
-- Next: Liliana 4 Sep sent 2017 ramp drawings. Danny 6 Sep: Kevin/EXP scope needed (ramp on roof membrane). Estimate **21137** sent 6 Sep. Liliana auto-reply.
+- Next: Liliana 4 Sep sent 2017 ramp drawings. Danny 6 Sep: Kevin/EXP scope needed (ramp on roof membrane). Estimate **21137** sent 6 Sep. Liliana auto-reply. No later mail.
 
 ### T-030 — 1790–1798 Denman structural
 - Status: waiting. Pri: P3.
-- Next: Danny 6 Sep 15:37 Pacific asked Dr. Sasan for preferred site-visit date. Ehsan OOO auto-reply.
+- Next: Danny 6 Sep 15:37 Pacific asked Dr. Sasan for preferred site-visit date. Dr. Sasan 8 Sep 22:36 Pacific: tenant not back yet; will follow up. Ehsan OOO auto-reply earlier.
 
 ### T-031 — 3071 No 5 Road / Richmond
 - Status: waiting. Pri: P3.
-- Next: Danny chased Richmond 6 Sep 12:21 Pacific for the permit PDF (`building@` / `buildingapplications@`).
+- Next: Danny chased Richmond 6 Sep 12:21 Pacific for the permit PDF (`building@` / `buildingapplications@`). No reply.
 
 ### T-032 — 418 E 46th (other CoV stream)
 - Status: waiting. Pri: P3.
@@ -220,8 +221,12 @@ Last refreshed: 2026-09-07 (weekday 08:00 America/Vancouver). Next ID: **T-041**
 
 ### T-039 — 6231 Fraser St / Hyderabad Biryani House
 - Status: open. Pri: P2.
-- Next: Client 4 Sep sent floor plan + city letter. Danny 5 Sep: cannot shrink original washroom and keep dishwashing; restore old layout. Client 5 Sep 11:37 Pacific **UNREAD**: 3 washrooms, one converted to dishwasher; city ok; need development permit. Draft only. Do not invent DP conclusions.
+- Next: Client 4 Sep sent floor plan + city letter. Danny 5 Sep: cannot shrink original washroom and keep dishwashing; restore old layout. Client 5 Sep 11:37 Pacific: 3 washrooms, one converted to dishwasher; city ok; need development permit. Client 7 Sep 17:46 Pacific **UNREAD**: women’s washroom 78 in depth × 62 in width. Draft only. Do not invent DP conclusions.
 
 ### T-040 — 423 Sixth Street feasibility
 - Status: waiting. Pri: P3.
 - Next: Danny 4 Sep 14:37 Pacific sent Juan (`juan@optimalprojects.ca`) a feasibility proposal (C-2 / heritage). Wait Juan. **No amounts on this board.**
+
+### T-041 — 115 West 4th Avenue
+- Status: waiting. Pri: P3.
+- Next: Danny 8 Sep 05:08 Pacific told Thyda King (CoV) BP submitted, case **201003624673**. Same morning asked Jordan/Gilles/Derek: exiting minimum; electrical panels stay in the electrical room, not the vestibule; offer a call. Wait city + team. Do not invent permit conclusions.
