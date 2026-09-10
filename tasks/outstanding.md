@@ -21,17 +21,24 @@ Canonical live list of Architelier work. `@Cursor` instructs (drafts, replies, a
 
 ## Index
 
-Last refreshed: 2026-09-08 (weekday 08:00 America/Vancouver). Next ID: **T-042**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-09-13.
+Last refreshed: 2026-09-10 (weekday 08:00 America/Vancouver). Next ID: **T-049**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-09-13.
 
 | ID | Pri | Status | Next |
 | --- | --- | --- | --- |
 | T-003 | P1 | open | Unread Rob Rattray change-of-use notes; draft only |
-| T-017 | P1 | open | Unread VCH sink labels + unread CoV completeness; draft only |
+| T-017 | P1 | open | Unread VCH sink labels (4488 Main) + unread CoV completeness; draft only |
 | T-006 | P1 | open | Farm-market list package still unsent (Dave / WHG; not 7128 Kerr; not 7953) |
-| T-019 | P1 | open | Unread Thai 8 Sep: initial Schedule B as CRP (May Nails); draft only |
+| T-043 | P1 | open | Unread June: CNV inspections? Unread Jayraj: report on both units; draft only |
+| T-038 | P1 | open | Unread Richmond 9 Sep permit package (18360 McCartney); draft only |
+| T-021 | P1 | open | Unread Susmitha 9 Sep closeout matrix + photos; draft only |
+| T-045 | P1 | open | Unread Martin 9 Sep: stamped set, 6 in furring, courier address; draft only |
+| T-048 | P1 | open | Unread Michael (MultiLiving) 9 Sep: OP timing for 3558 & 3560 W 39th; draft only |
 | T-013 | P2 | open | Unread Helen stem-wall / Unit 6; Rion asked Edward 4 Sep; Blueprint sending updated plans |
 | T-039 | P2 | open | Unread Hyderabad Biryani (6231 Fraser) 7 Sep: women’s washroom 78×62 in; draft only |
-| T-022 | P2 | open | Unread Laurent 6 Sep 90% MP HVAC review (22339 48 Ave) |
+| T-041 | P2 | open | Jordan 8 Sep: “open office” vs machine shop; asked call; Marcel sent images 9 Sep |
+| T-022 | P2 | open | Estimate 21138 sent Tom 9 Sep; Laurent 6 Sep 90% HVAC still unanswered |
+| T-047 | P2 | open | Review Conor 8 Sep business-license PDF (2928 Granville); draft only |
+| T-046 | P2 | open | Melissa 9 Sep: Satwik vs 75 ft radius for extinguishers; draft only |
 | T-035 | P2 | open | Unread Dave: can pergola attach at 7953 120th; CHA CHA PATIO invite 4 Sep |
 | T-036 | P2 | open | Review Singh Beans space plan (Melissa 3 Sep; no Architelier reply yet) |
 | T-037 | P2 | open | Reotech 950 sq ft + Schedules A+B; draft only; no amounts |
@@ -40,8 +47,10 @@ Last refreshed: 2026-09-08 (weekday 08:00 America/Vancouver). Next ID: **T-042**
 | T-005 | P2 | open | The Key visit 1 Sep; CF-2026-002887 still unread |
 | T-023 | P2 | open | Fusion Zoom was 2 Sep 10:00; no post-meeting mail |
 | T-001 | P2 | open | Create Grok Bot Outstanding |
-| T-030 | P3 | waiting | Dr. Sasan 8 Sep: tenant not back yet; will follow up |
-| T-041 | P3 | waiting | 115 W 4th BP submitted CoV 8 Sep (201003624673); wait city + team on exiting |
+| T-030 | P3 | waiting | Asked Chris 8 Sep for Wed 10am Denman visit; no Chris reply |
+| T-019 | P3 | waiting | CRP Schedule B returned to Thai 8 Sep; wait Thai / James |
+| T-042 | P3 | waiting | La Vita: thanked Ben 9 Sep; Drive Permit folder 9 Sep; wait BP issued |
+| T-044 | P3 | waiting | UFCW: Eric 9 Sep asked Euroline vinyl pricing; Tim received 21133 |
 | T-029 | P3 | waiting | Estimate 21137 sent 6 Sep (ramp on roof membrane; Kevin/EXP); Liliana OOO |
 | T-018 | P3 | waiting | Kamloops Estimate 21136 sent 3 Sep; wait MAK |
 | T-026 | P3 | waiting | Evolve quote sent 3 Sep; Ehsan asked invoice |
@@ -51,8 +60,6 @@ Last refreshed: 2026-09-08 (weekday 08:00 America/Vancouver). Next ID: **T-042**
 | T-028 | P3 | waiting | Giligson schedules sent 2 Sep |
 | T-016 | P3 | waiting | Medora firestop sent 2 Sep |
 | T-034 | P3 | waiting | Verdun alt-solution ask 3 Sep |
-| T-038 | P3 | waiting | McCartney permit issued 3 Sep; forwarded Raincity |
-| T-021 | P3 | waiting | Asked Susmitha 4 Sep for mech+struc CB and current photos |
 | T-009 | P3 | waiting | ATR CAD sent 2 Sep |
 | T-012 | P3 | waiting | 5515 Montgomery: wait City of Burnaby |
 | T-008 | P3 | waiting | 7953 120th: wait City of Surrey (separate from T-006 / T-035) |
@@ -64,17 +71,17 @@ Last refreshed: 2026-09-08 (weekday 08:00 America/Vancouver). Next ID: **T-042**
 | T-031 | P3 | waiting | Chased Richmond 6 Sep for 3071 No 5 Rd permit PDF |
 | T-032 | P3 | waiting | 418 E 46th: wait City of Vancouver |
 | T-033 | P3 | waiting | 7128 Kerr: wait City of Vancouver |
-| T-002 | P3 | waiting | Asked Microsoft 8 Sep to close case 2608310010000403 |
+| T-002 | P3 | done | Microsoft closed case 2608310010000403 (survey 9 Sep) |
 
 ## Records
 
 ### T-001 — Create Grok Bot Outstanding
 - Status: open. Pri: P2.
-- Next: Danny creates Grok Bot Outstanding in grok.com/jobs (see `bots/outstanding.md`). Until then this Cloud Agent covers weekday refresh.
+- Next: Danny creates Grok Bot Outstanding in grok.com/jobs (see `bots/outstanding.md`). Until then this Cloud Agent covers weekday refresh. Cursor ticket T-F51981 still open on Teams OAuth.
 
 ### T-002 — Microsoft 365 display-name support
-- Status: waiting. Pri: P3.
-- Next: Case **2608310010000403**. Microsoft 8 Sep said they would close without a reply. Danny 8 Sep 01:47 Pacific: close the case; remaining issue is Cursor / Grok Bot Teams OAuth (see T-001). Wait Microsoft close.
+- Status: done. Pri: P3.
+- Next: Closed. Danny 8 Sep asked Microsoft to close case **2608310010000403**. Microsoft 9 Sep sent a support-experience survey.
 
 ### T-003 — Change-of-use (Rob Rattray)
 - Status: open. Pri: P1.
@@ -131,29 +138,29 @@ Last refreshed: 2026-09-08 (weekday 08:00 America/Vancouver). Next ID: **T-042**
 - Status: waiting. Pri: P3.
 - Next: Firestop details sent 2 Sep. No later mail.
 
-### T-017 — VCH / DTES / CoV BP-2023-05426
+### T-017 — VCH / 4488 Main / CoV DB-2026-02496
 - Status: open. Pri: P1.
-- Next: VCH 28 Aug sink labels still **UNREAD**. Joy Chen completeness (2 Sep) still **UNREAD**. Draft only.
+- Next: Jennifer Kassimatis (VCH) 31 Aug 17:47 Pacific sink labels still **UNREAD**. Joy Chen completeness (31 Aug) still **UNREAD**. Draft only.
 
 ### T-018 — Kamloops / MAK Architecture
 - Status: waiting. Pri: P3.
 - Next: Estimate **21136** sent 3 Sep. Wait MAK.
 
 ### T-019 — May Nails / James issued
-- Status: open. Pri: P1.
-- Next: James issued 3 Sep. Thai Ly 8 Sep 07:52 Pacific **UNREAD**: initial Schedule B as CRP (to James + Danny). Draft only. Do not invent permit conclusions.
+- Status: waiting. Pri: P3.
+- Next: Thai Ly 8 Sep asked CRP initial on Schedule B. Danny 8 Sep 08:06 Pacific returned signed PDF (“As attached”). Wait Thai / James. Do not invent permit conclusions.
 
 ### T-020 — 418 E 46th development / rezoning (City of Vancouver)
 - Status: waiting. Pri: P3.
 - Next: Wait City of Vancouver.
 
 ### T-021 — 280 E 6th / Symmetry
-- Status: waiting. Pri: P3.
-- Next: Danny 4 Sep asked Susmitha for mechanical + structural coordination bulletins and current site photos.
+- Status: open. Pri: P1.
+- Next: Susmitha 9 Sep 10:21 Pacific **UNREAD**: closeout matrix, SharePoint closeout folder, and site photos; asked if anything else is outstanding. Joe Chao then asked about backflow / DCVA and substantial-performance letter; Susmitha 9 Sep 11:41 Pacific said they are getting the backflow certificate. Review closeout; draft only. Do not invent CB conclusions.
 
-### T-022 — 22339 48 Avenue / Oneka
+### T-022 — 22339 48 Avenue / Team Cannabis
 - Status: open. Pri: P2.
-- Next: Laurent (Integral) 6 Sep 11:23 Pacific **UNREAD** “90% MP Client Review” — HVAC configs. Drive folder `2604 - 22339 48 Avenue` created 8 Sep (Schedule B PDF). Earlier 3 Sep “drawings look fine” is superseded for next action.
+- Next: Danny 8 Sep: signed drawings back to Blueprint; asked Tom for signed Schedule A. Blueprint 8 Sep sent Tom’s signed Schedule A. Tom 8 Sep: applying for province and municipal. Estimate **21138** sent Tom 9 Sep. Laurent 6 Sep 90% MP HVAC (two configs) is read, **no Architelier reply**. **No amounts on this board.**
 
 ### T-023 — Evolution presentation / Fusion
 - Status: open. Pri: P2.
@@ -185,7 +192,7 @@ Last refreshed: 2026-09-08 (weekday 08:00 America/Vancouver). Next ID: **T-042**
 
 ### T-030 — 1790–1798 Denman structural
 - Status: waiting. Pri: P3.
-- Next: Danny 6 Sep 15:37 Pacific asked Dr. Sasan for preferred site-visit date. Dr. Sasan 8 Sep 22:36 Pacific: tenant not back yet; will follow up. Ehsan OOO auto-reply earlier.
+- Next: Dr. Sasan 8 Sep: any day this week; Behzad: Wednesday before noon; Jimmy: 10am. Danny 8 Sep asked Chris (structural) if available. **No Chris reply.** Do not invent visit outcome.
 
 ### T-031 — 3071 No 5 Road / Richmond
 - Status: waiting. Pri: P3.
@@ -216,8 +223,8 @@ Last refreshed: 2026-09-08 (weekday 08:00 America/Vancouver). Next ID: **T-042**
 - Next: 950 sq ft + Schedules A+B. Draft only. **No amounts.** No later mail.
 
 ### T-038 — McCartney / Raincity
-- Status: waiting. Pri: P3.
-- Next: Permit issued 3 Sep; forwarded Raincity. No later mail.
+- Status: open. Pri: P1.
+- Next: Permit issued 3 Sep; forwarded Raincity. Richmond 9 Sep 16:05 Pacific **UNREAD**: “Permit Package - 18360 McCartney WAy” with approved drawing and permit. Review; draft only. Do not invent occupancy conclusions.
 
 ### T-039 — 6231 Fraser St / Hyderabad Biryani House
 - Status: open. Pri: P2.
@@ -228,5 +235,33 @@ Last refreshed: 2026-09-08 (weekday 08:00 America/Vancouver). Next ID: **T-042**
 - Next: Danny 4 Sep 14:37 Pacific sent Juan (`juan@optimalprojects.ca`) a feasibility proposal (C-2 / heritage). Wait Juan. **No amounts on this board.**
 
 ### T-041 — 115 West 4th Avenue
+- Status: open. Pri: P2.
+- Next: Thyda King 8 Sep acknowledged BP case **201003624673**. Jordan (CBRE) 8 Sep: main-floor machine shop labelled “open office” may flag the City. Danny 8 Sep asked for a conference call. Drawings sent Marcel 8–9 Sep. Marcel 9 Sep 09:02 Pacific replied with two images (body “or”). Wait Jordan / review Marcel. Do not invent permit conclusions.
+
+### T-042 — 260 / 422 E 3rd NV / La Vita Lounge
 - Status: waiting. Pri: P3.
-- Next: Danny 8 Sep 05:08 Pacific told Thyda King (CoV) BP submitted, case **201003624673**. Same morning asked Jordan/Gilles/Derek: exiting minimum; electrical panels stay in the electrical room, not the vestibule; offer a call. Wait city + team. Do not invent permit conclusions.
+- Next: Ben (3D Arc) 8 Sep evening: BP not yet issued; approved architectural drawings attached. Danny 9 Sep 08:13 Pacific thanked Ben. Drive folder `Permit` created 9 Sep under `2601 - 422 East 3rd Street, Unit 260`. Wait BP issued. Do not invent permit conclusions.
+
+### T-043 — 103 W 3rd Street
+- Status: open. Pri: P1.
+- Next: June (CRS) 8 Sep submitted Unit 201 to City of North Vancouver (**BLD2025-00370**). June 8 Sep 15:57 Pacific **UNREAD**: CNV saved documents, will not review until inspections are scheduled, and asked whether to book drywall / fire-separation / firestopping inspections. Jayraj 8 Sep 11:56 Pacific **UNREAD** (**BLD2026-00103**): Mauro’s fire-blocking photos for both units; asked Danny for a proper report so they can close. Draft only. Do not invent inspection or occupancy conclusions.
+
+### T-044 — UFCW envelope / window trades (Fusion)
+- Status: waiting. Pri: P3.
+- Next: Eric Fung 8 Sep sent window-trade drawings. Danny 9 Sep asked David (Euroline) for a quote. David: Euroline does vinyl, not aluminum. Danny asked Eric if vinyl is acceptable; Eric 9 Sep told David the client wants options — submit vinyl pricing. Estimate **21133** bounced at `tim@fusion-projects.com`, resent `twouters@fusion-projects.com`; Tim received. Wait Euroline. **No amounts on this board.**
+
+### T-045 — 185 175A Street daycare
+- Status: open. Pri: P1.
+- Next: Martin (WGW) 8 Sep: electrical finalized; Unit 103 needs a furred-out wall at the existing panel. Danny 9 Sep 11:43 Pacific asked for stamped drawings and wall thickness. Martin 9 Sep 15:30 Pacific **UNREAD**: stamped drawings attached; required wall thickness 6 inches; can courier hard copies — confirm delivery address and contact. Draft only. Do not invent code conclusions.
+
+### T-046 — Muji Mayfair fire extinguishers
+- Status: open. Pri: P2.
+- Next: Melissa 8 Sep asked Viking how many extinguishers and where. Erik 9 Sep: ask the architect. Danny 9 Sep 08:12 Pacific: usually mechanical; typically one within every 75 ft radius. Melissa 9 Sep 09:17 Pacific (read): should she ask Satwik or use the 75 ft radius herself? Erik same morning: sprinkler engineer says this is usually from the architect. Reply; draft only. Do not invent fire-code conclusions.
+
+### T-047 — 2928 Granville Street
+- Status: open. Pri: P2.
+- Next: Conor Finucane (NAI) 8 Sep 16:39 Pacific sent a business-license PDF. Drive folder `2611 - 2928 Granville Street` created 9 Sep. Review; draft only. Do not invent conversion or permit conclusions.
+
+### T-048 — 3558 & 3560 W 39th
+- Status: open. Pri: P1.
+- Next: Michael Lee (MultiLiving) 9 Sep 16:48 Pacific **UNREAD**: how is the project coming; any idea when the OP might land; anything he can do to support. Draft only. Do not invent occupancy conclusions.
