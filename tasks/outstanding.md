@@ -21,26 +21,27 @@ Canonical live list of Architelier work. `@Cursor` instructs (drafts, replies, a
 
 ## Index
 
-Last refreshed: 2026-10-07 (weekday 08:00 America/Vancouver). Next ID: **T-093**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-10-13.
+Last refreshed: 2026-10-08 (weekday 08:00 America/Vancouver). Next ID: **T-094**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-10-13.
 
 | ID | Pri | Status | Next |
 | --- | --- | --- | --- |
-| T-072 | P1 | open | **UNREAD**: Gisborne Sch C received — courier back; Sara/Avi want **Thu morning** drop-off for final |
+| T-072 | P1 | open | CU Vision final **today 8 Oct** (calendar 9:00 `830-86388 No. 3 Road`); exit-door memo 7 Oct; Sch C / schedule / COI / E still |
+| T-046 | P1 | open | Muji Mayfair Victoria finals **today 8 Oct**; washroom photos + EM / FA / sprinkler |
+| T-026 | P1 | open | Claudio **UNREAD**: Evolve slab-on-grade — shops / field reviews / signed letters? |
+| T-093 | P1 | open | Tim **UNREAD**: Architectural / CRP & drawings cost to permit; someone else may take over later |
 | T-003 | P1 | open | CoV **UNREAD**: **DP-2026-00681** more info; deadline **30 Sep overdue**; Gurmukh unanswered |
 | T-009 | P1 | open | Nick **UNREAD**: weekly onsite Aerojet touch point (home stretch) |
-| T-074 | P1 | open | Nick: Renfrew close-out docs due **today 7 Oct** |
-| T-046 | P1 | open | Muji Mayfair Victoria finals **tomorrow Thu 8 Oct**; washroom photos + EM / FA / sprinkler |
-| T-073 | P1 | open | Adler IFC still due; Nick back since **29 Sep** |
+| T-074 | P1 | open | Nick: Renfrew close-out docs **overdue** from **EOD 7 Oct** |
 | T-075 | P1 | open | Unanswered Ehsan on Axiom completion cert; Burnaby final report 1 Oct |
-| T-052 | P2 | open | Weisbrod coordination **today 7 Oct 2pm**; Danny joins then leaves early |
-| T-014 | P2 | open | Coquitlam staff not available today; Hyewon asked early next week; calendar still 3pm |
+| T-092 | P2 | open | CEFA 610 6th rough-in **Tue 13 Oct 2:30**; field report so they can close walls / city framing Wed |
+| T-073 | P2 | open | Adler rough-in field review **Tue 13 Oct ~12:30** (Nick scheduling) |
+| T-014 | P2 | open | 501 Nelson city meeting **Canceled**; follow new date |
+| T-013 | P2 | open | **UNREAD**: Rion can meet (Helen in Germany); Blueprint revised plans pending Danny coordination |
 | T-088 | P2 | open | Wait Lori: accessible-washroom clearances too tight; exit signs / auto doors still out |
-| T-013 | P2 | open | Asked Helen to meet (or virtual) on 5514 Smith elevation / overhang |
 | T-062 | P2 | open | Sent Group D / cafe-ancillary justification; Aaron issued ID backgrounds |
 | T-087 | P2 | open | 401 W Georgia **Partial Pass**: remaining 2-hr spray / FR walls / firestop |
 | T-080 | P2 | open | Chhina Das: Amanda asked to check with city whether washrooms are required |
 | T-034 | P2 | open | Verdun Unit 130: asked Amar to reconfirm two mezzanines + stair for structural |
-| T-092 | P2 | open | CEFA 610 6th New West: Todd asked inspection **Tue 13 Oct**; wait his questions |
 | T-030 | P2 | open | Chris issued updated Denman structural 6 Oct; follow IFC / Ehsan trades |
 | T-078 | P2 | open | Origin: Medico asked Nanaimo if revised mech needed for framing vs final |
 | T-090 | P2 | open | Crave Lonsdale: review Jennifer photos; T-bar + pull-station Qs |
@@ -62,6 +63,7 @@ Last refreshed: 2026-10-07 (weekday 08:00 America/Vancouver). Next ID: **T-093**
 | T-015 | P2 | open | Dr. Au city notes 26 Aug |
 | T-023 | P2 | open | Fusion Zoom was 2 Sep; no post-meeting mail |
 | T-001 | P2 | open | Create Grok Bot Outstanding |
+| T-052 | P3 | waiting | Weisbrod R1 sent 8 Oct; Dhawal OOO 8 Oct; wait comments |
 | T-043 | P3 | waiting | Danny 2 Oct: June call for 103 W 3rd reinspection |
 | T-083 | P3 | waiting | Phoebe 8451/8455 No 5 Rd entry ramp: Danny said do it after |
 | T-086 | P3 | waiting | Robson site report sent; Devin uploaded to DB; wait site photos |
@@ -87,7 +89,6 @@ Last refreshed: 2026-10-07 (weekday 08:00 America/Vancouver). Next ID: **T-093**
 | T-064 | P3 | waiting | Joe 25 Sep sent Crown Manor Phase 2 BP follow-up to New West; wait city |
 | T-051 | P3 | waiting | Stamped Oneka 410/450 BP (ASHRAE lighting) 24 Sep; Kristina resent to Fusion; wait city |
 | T-055 | P3 | waiting | Corix mezz structural markup sent Bea 24 Sep for contractor price |
-| T-026 | P3 | waiting | Evolve IFP (8 rooms) returned 24 Sep; invoice 22197 still out |
 | T-069 | P3 | waiting | 777 Hornby permit sent Kevin 21 Sep; Blake thanks 6 Oct; wait QuadReal |
 | T-070 | P3 | waiting | Estimate **21141** sent Long / Luis 21 Sep; Luis now on 1216 W 10 (T-050) |
 | T-054 | P3 | waiting | 275 E 10th: Pierre paid; Arlene still needs extension form in Posse |
@@ -169,11 +170,11 @@ Last refreshed: 2026-10-07 (weekday 08:00 America/Vancouver). Next ID: **T-093**
 
 ### T-013 — 5514 Smith Avenue Unit 6
 - Status: open. Pri: P2.
-- Next: Danny 6 Oct asked Helen to meet (or virtual) on elevation / overhang changes. Helen 5 Oct agrees top-floor overhang looks better and asked maximum slim-overhang projection. Edward 28 Sep: revised architectural plans with radon exhaust (fan in ground-floor mech room). Rion 27 Sep: city inspector wants **4-inch Schedule 15** pipe straight foundation-to-roof. Meet Helen. **No amounts.** Do not invent code conclusions.
+- Next: Rion 7 Oct **UNREAD**: Helen is in Germany; can meet Danny — asked time and place. Blueprint 7 Oct 23:15 **UNREAD**: revised plans to Rion pending upcoming coordination meeting with Danny (then issue official set). Danny 6 Oct asked Helen to meet (or virtual) on elevation / overhang. Helen 5 Oct agrees top-floor overhang looks better and asked maximum slim-overhang projection. Edward 28 Sep: revised architectural plans with radon exhaust. Rion 27 Sep: city inspector wants **4-inch Schedule 15** pipe straight foundation-to-roof. Reply Rion / schedule coordination. **No amounts.** Do not invent code conclusions.
 
 ### T-014 — Coquitlam additional dwelling unit / 501 Nelson
 - Status: open. Pri: P2.
-- Next: Hyewon 6 Oct: she and her supervisor are **not available today 7 Oct**; asked to reschedule early next week. Carlo preferred to keep the slot. Calendar still 3pm Coquitlam (lobby 5–10 min prior). Follow Carlo / new date. Separate from T-057, T-063, and T-092. Do not invent code conclusions.
+- Next: Carlo 7 Oct 15:53 **Canceled: 501 Nelson - meeting with the city staff**. Hyewon 6 Oct: she and her supervisor were not available 7 Oct; asked to reschedule early next week. Follow new date. Separate from T-057, T-063, and T-092. Do not invent code conclusions.
 
 ### T-015 — Dr. Au / 7326 Canada Way
 - Status: open. Pri: P2.
@@ -220,8 +221,8 @@ Last refreshed: 2026-10-07 (weekday 08:00 America/Vancouver). Next ID: **T-093**
 - Next: Wait City of Vancouver. Not the farm-market list (T-006).
 
 ### T-026 — Evolve Design Build / Ehsan
-- Status: waiting. Pri: P3.
-- Next: Ehsan 24 Sep sent revised IFP (scope cut: two back rooms remain as-is; 30 treatment rooms down to 8). Danny 24 Sep returned “As attached.” Invoice **22197** still out. Wait Ehsan. **No amounts.**
+- Status: open. Pri: P1.
+- Next: Claudio Ferreira 8 Oct 13:37 **UNREAD**: consulting/engineering excluded from Axiom scope; asks if Danny needs shop drawings / field reviews / signed letters for slab-on-grade. Ehsan asked if there is a base-building SE. Danny 8 Oct 02:15: contractors generally engage a structural engineer for repair details. Brad 7 Oct: slab-on-grade repair detail for new sanitary lines. Ehsan 24 Sep sent revised IFP (scope cut: two back rooms remain as-is; 30 treatment rooms down to 8). Danny 24 Sep returned “As attached.” Invoice **22197** still out. Reply Claudio. Do not invent structural conclusions. **No amounts.** Separate from T-075 Matcon.
 
 ### T-027 — New Gen / Discovery
 - Status: waiting. Pri: P3.
@@ -301,7 +302,7 @@ Last refreshed: 2026-10-07 (weekday 08:00 America/Vancouver). Next ID: **T-093**
 
 ### T-046 — Muji Mayfair fire extinguishers
 - Status: open. Pri: P1.
-- Next: Victoria finals **tomorrow Thu 8 Oct**. Prep video with Jay happened 5 Oct. Danny 6 Oct: generally okay; need washroom and general-area photos; EM testing, FA, and sprinkler verification. Mir providing seismic sign-off. Separate from T-079 Coquitlam. Do not invent fire-code conclusions.
+- Next: Victoria finals **today Thu 8 Oct**. Prep video with Jay happened 5 Oct. Danny 6 Oct: generally okay; need washroom and general-area photos; EM testing, FA, and sprinkler verification. Mir providing seismic sign-off. Separate from T-079 Coquitlam. Do not invent fire-code conclusions.
 
 ### T-047 — 2928 Granville Street
 - Status: open. Pri: P2.
@@ -324,8 +325,8 @@ Last refreshed: 2026-10-07 (weekday 08:00 America/Vancouver). Next ID: **T-093**
 - Next: Kristina 24 Sep asked stamp of updated BP (electrical lighting to ASHRAE). Danny 24 Sep returned “As attached.” Kristina resent Suite 410/450 drawings to Fusion the same afternoon; Jeff thanks. Wait MAK / city. **No amounts.**
 
 ### T-052 — 4076 Weisbrod Road
-- Status: open. Pri: P2.
-- Next: Weisbrod coordination **today 7 Oct 2pm**; Danny joins then leaves early. Divya 30 Sep: signed contract; keep electric baseboard, add AC in living. Danny 1 Oct sent revised set. Attend / follow. Do not invent permit conclusions.
+- Status: waiting. Pri: P3.
+- Next: Danny 8 Oct 14:10 sent revised R1 (`2607 - 4076 Weisbrod Road R1.pdf`) after the 7 Oct 2pm coordination. Juan follow-up: move mechanical room on building 2 so the water line can be shared. Dhawal auto-reply OOO 8 Oct. Lyle Walters OOO until 13 Oct. Divya 30 Sep: signed contract; keep electric baseboard, add AC in living. Wait comments. Do not invent permit conclusions.
 
 ### T-053 — 1991 Franklin / Symmetry Lighting
 - Status: waiting. Pri: P3.
@@ -405,15 +406,15 @@ Last refreshed: 2026-10-07 (weekday 08:00 America/Vancouver). Next ID: **T-093**
 
 ### T-072 — CU Vision / 6388 No 3 Road Unit 830
 - Status: open. Pri: P1.
-- Next: Valentina 6 Oct **UNREAD**: courier confirmed Sch C arrived yesterday afternoon; asked when it was couriered back. Sara: looking to rebook final **Thursday**; can stop by Thursday so someone meets on site (or Wednesday drop-off). Avi: **Thursday morning** — calling final Thursday 9:45am–4pm. Sara 2 Oct still waiting Architelier schedule + COI + Schedule E and mech/elec initials. Initial Sch C and return; provide schedule / COI / E. Separate from T-078. Do not invent occupancy conclusions.
+- Next: Final **today Thu 8 Oct** (calendar 9:00 `830-86388 No. 3 Road`). Drive `830-6388 No 3 Road - Memo Unit Exit Door 2026-10-07`. Valentina 6 Oct: courier confirmed Sch C arrived; asked when it was couriered back. Sara/Avi wanted Thursday morning drop-off for final 9:45am–4pm. Sara 2 Oct still waiting Architelier schedule + COI + Schedule E and mech/elec initials. Attend final; provide schedule / COI / E; Sch C courier still. Separate from T-078. Do not invent occupancy conclusions.
 
 ### T-073 — Adler Group IFC
-- Status: open. Pri: P1.
-- Next: Nick (Fusion) 22 Sep: glazing-door option with U-channel sidelites. IFC was due **Thu 24 Sep**; no issue mail since. Nick back **29 Sep**. Revise / issue IFC. Do not invent construction conclusions.
+- Status: open. Pri: P2.
+- Next: Nick 7 Oct scheduling rough-in field reviews **Tue 13 Oct**; Martin WGW 12:00. Danny 8 Oct: meeting till 12pm, around **12:30pm**. Nick 22 Sep: glazing-door option with U-channel sidelites. IFC was due Thu 24 Sep. Attend field review. Adler is **1170-320 Granville**, not 401 W Georgia (T-087). Do not invent construction conclusions.
 
 ### T-074 — Renfrew Centre Demise closeout
 - Status: open. Pri: P1.
-- Next: Nick (Fusion) 2 Oct: substantially complete 28 Sep; provide close-out documents per checklist by **EOD today Wed 7 Oct**. Tezun 2 Oct sent remaining occupancy docs on the Final Review thread. Occupancy received 29 Sep. Assemble close-out. Do not invent occupancy conclusions.
+- Next: Nick (Fusion) 2 Oct: substantially complete 28 Sep; provide close-out documents per checklist by **EOD Wed 7 Oct** — **overdue**; no later Danny reply. Tezun 2 Oct sent remaining occupancy docs on the Final Review thread. Occupancy received 29 Sep. Assemble close-out. Do not invent occupancy conclusions.
 
 ### T-075 — Matcon HO completion
 - Status: open. Pri: P1.
@@ -485,4 +486,8 @@ Last refreshed: 2026-10-07 (weekday 08:00 America/Vancouver). Next ID: **T-093**
 
 ### T-092 — CEFA / 610 Sixth Street New Westminster
 - Status: open. Pri: P2.
-- Next: Todd (Martini) 6 Oct asked availability **Tue 13 Oct** for an inspection at 610 6th Street CEFA New West. Danny 7 Oct: what is in mind / specific questions? Edward 14 Sep: DP **DP001165** issued; Danny re-stamped playground set. Wait Todd. Separate from T-063 (CEFA Brookswood Langley) and T-014 (501 Nelson). Do not invent inspection conclusions.
+- Next: Todd 7 Oct 15:18: nothing specific, just rough-in; hoping city framing Wednesday so needs field report walls ok to close. Danny 8 Oct: next Tuesday only ~**2:30pm**. Edward 14 Sep: DP **DP001165** issued; Danny re-stamped playground set. Attend rough-in **Tue 13 Oct 2:30**; field report for close-up. Separate from T-063 (CEFA Brookswood Langley) and T-014 (501 Nelson). Do not invent inspection conclusions.
+
+### T-093 — Frontiersman / Coast Distributors / RFP 26-156
+- Status: open. Pri: P1.
+- Next: Tim Wouters 8 Oct 15:05 **UNREAD**: Architectural / CRP & drawings cost to permit; someone else may take over the permit later. Danny 8 Oct 07:48 sent Estimate **21147** after Tim’s 7 Oct RFP 26-156 Frontiersman / Coast Distributors architect + CRP pricing ask. Reply Tim. **No amounts.** Separate from skipped Bentley Estimate 21146. Do not invent scope.
