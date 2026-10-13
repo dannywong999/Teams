@@ -21,16 +21,16 @@ Canonical live list of Architelier work. `@Cursor` instructs (drafts, replies, a
 
 ## Index
 
-Last refreshed: 2026-10-12 (weekday 08:00 America/Vancouver). Next ID: **T-095**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-10-19.
+Last refreshed: 2026-10-13 (weekday 08:00 America/Vancouver). Next ID: **T-096**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-10-19.
 
 | ID | Pri | Status | Next |
 | --- | --- | --- | --- |
+| T-013 | P1 | open | Rion **UNREAD** 12 Oct: available to meet **today** — office or Metrotower 2 |
 | T-014 | P1 | open | 501 Nelson **Wed 14 Oct 11:00 in person** Coquitlam; Carlo confirmed with Hyewon |
 | T-009 | P1 | open | Nick **UNREAD**: intent **onsite / in person**, not Teams; coordinate with AJ |
 | T-078 | P1 | open | Nanaimo 9 Oct: **FRAMING PARTIAL** + **ROUGH IN SPRINKLER FAILED** (**BP131873**) |
 | T-088 | P1 | open | Angela **UNREAD**: say BCBC / UAG clearances met; asked for code reference if 2024 BCBC differs |
 | T-003 | P1 | open | CoV **UNREAD**: **DP-2026-00681** more info; deadline **30 Sep overdue**; Gurmukh unanswered |
-| T-013 | P1 | open | **UNREAD**: Rion can meet (Helen in Germany); Blueprint revised plans pending Danny coordination |
 | T-026 | P1 | open | Claudio unanswered: Evolve slab-on-grade — shops / field reviews / signed letters? |
 | T-074 | P1 | open | Nick: Renfrew close-out docs **overdue** from **EOD 7 Oct** |
 | T-075 | P1 | open | Unanswered Ehsan on Axiom completion cert; Burnaby final report 1 Oct |
@@ -39,7 +39,7 @@ Last refreshed: 2026-10-12 (weekday 08:00 America/Vancouver). Next ID: **T-095**
 | T-072 | P2 | open | Sch C initialed + Sch E / COI sent 8 Oct; schedule dropped on site; follow Richmond final |
 | T-046 | P2 | open | Muji Mayfair Victoria finals were 8 Oct; follow outcome; washroom photos + EM / FA / sprinkler |
 | T-030 | P2 | open | Chris: studs-on-flat OK; follow IFC / Ehsan trades |
-| T-048 | P2 | open | Midland millwork still; two fridges held; stair flooring **13 Oct** |
+| T-048 | P2 | open | Midland millwork still; two fridges held; stair flooring moved to **Tue 20 Oct** |
 | T-062 | P2 | open | Sent Group D / cafe-ancillary justification; Aaron issued ID backgrounds |
 | T-087 | P2 | open | 401 W Georgia **Partial Pass**: remaining 2-hr spray / FR walls / firestop |
 | T-080 | P2 | open | Chhina Das: Amanda asked to check with city whether washrooms are required |
@@ -62,8 +62,9 @@ Last refreshed: 2026-10-12 (weekday 08:00 America/Vancouver). Next ID: **T-095**
 | T-015 | P2 | open | Dr. Au city notes 26 Aug |
 | T-023 | P2 | open | Fusion Zoom was 2 Sep; no post-meeting mail |
 | T-001 | P2 | open | Create Grok Bot Outstanding |
+| T-095 | P3 | waiting | B&D Autobody BP drawings sent Hal 13 Oct; wait reply; no amounts |
 | T-094 | P3 | waiting | Estimate **21148** sent 9 Oct (Nabi / 4567 Lougheed); wait reply; no amounts |
-| T-093 | P3 | waiting | Danny answered Tim: permit-phase arch / CRP / BP drawings; wait reply; no amounts |
+| T-093 | P3 | waiting | Danny 12 Oct: if they submit for permit, revised fee; wait Tim; no amounts |
 | T-051 | P3 | waiting | Oneka Sch A R1 sent 9 Oct; Chris thanks; wait Fusion / CoV |
 | T-052 | P3 | waiting | Weisbrod R1 sent 8 Oct; Dhawal OOO 8 Oct; wait comments |
 | T-043 | P3 | waiting | Nelson 9 Oct: city needed NOP first; they’ll figure it out |
@@ -171,7 +172,7 @@ Last refreshed: 2026-10-12 (weekday 08:00 America/Vancouver). Next ID: **T-095**
 
 ### T-013 — 5514 Smith Avenue Unit 6
 - Status: open. Pri: P1.
-- Next: Rion 7 Oct **UNREAD**: Helen is in Germany; can meet Danny — asked time and place. Blueprint 7 Oct 23:15 **UNREAD**: revised plans to Rion pending upcoming coordination meeting with Danny (then issue official set). Danny 6 Oct asked Helen to meet (or virtual) on elevation / overhang. Helen 5 Oct agrees top-floor overhang looks better and asked maximum slim-overhang projection. Edward 28 Sep: revised architectural plans with radon exhaust. Rion 27 Sep: city inspector wants **4-inch Schedule 15** pipe straight foundation-to-roof. Reply Rion / schedule coordination. **No amounts.** Do not invent code conclusions.
+- Next: Rion 12 Oct 19:34 **UNREAD**: available to meet **tomorrow** (Tue 13 Oct) at Danny’s office or Rion’s at Metrotower 2. Rion 7 Oct **UNREAD**: Helen is in Germany; can meet Danny. Blueprint 7 Oct 23:15 **UNREAD**: revised plans to Rion pending upcoming coordination meeting with Danny (then issue official set). Danny 6 Oct asked Helen to meet (or virtual) on elevation / overhang. Reply Rion / schedule. **No amounts.** Do not invent code conclusions.
 
 ### T-014 — Coquitlam additional dwelling unit / 501 Nelson
 - Status: open. Pri: P1.
@@ -311,7 +312,7 @@ Last refreshed: 2026-10-12 (weekday 08:00 America/Vancouver). Next ID: **T-095**
 
 ### T-048 — 3558 & 3560 W 39th
 - Status: open. Pri: P2.
-- Next: Danny 10 Oct forwarded the W 39th thread to Annabella. Millwork around the insert hood (21 Sep) still unanswered. Midland: two 24-in fridges held per Danny; reorder **4–6 weeks** ahead. Stair flooring calendar **13 Oct**. Reply Midland millwork. Do not invent occupancy conclusions.
+- Next: Stair flooring calendar moved to **Tue 20 Oct 9:00**. Danny 12 Oct: returned one microwave kit unopened for processing. Millwork around the insert hood (21 Sep) still unanswered. Midland: two 24-in fridges held per Danny; reorder **4–6 weeks** ahead. Reply Midland millwork. Do not invent occupancy conclusions.
 
 ### T-049 — Chaiiwala Barrie
 - Status: waiting. Pri: P3.
@@ -491,8 +492,12 @@ Last refreshed: 2026-10-12 (weekday 08:00 America/Vancouver). Next ID: **T-095**
 
 ### T-093 — Frontiersman / Coast Distributors / RFP 26-156
 - Status: waiting. Pri: P3.
-- Next: Danny 8 Oct 20:10 answered Tim: permit-phase includes architecture, CRP, and BP drawings; Architelier continues signoff regardless of who does construction. Estimate **21147** sent 8 Oct. Wait Tim. **No amounts.** Separate from skipped Bentley Estimate 21146 and T-094 Estimate **21148**. Do not invent scope.
+- Next: Tim 12 Oct asked a cheaper path to permit if Fusion owns the permit. Danny 12 Oct 22:10: if they submit for permit, revised fee; Surrey needs digital + hardcopy coordination. Estimate **21147** sent 8 Oct. Wait Tim. **No amounts.** Separate from skipped Bentley Estimate 21146 and T-094 Estimate **21148**. Do not invent scope.
 
 ### T-094 — Dr. Sherwin Nabi / CRU No 1 Tower 6 / 4567 Lougheed Hwy Burnaby
 - Status: waiting. Pri: P3.
 - Next: RFP 9 Oct (CRU No 1 Tower 6, **4567 Lougheed Hwy, Burnaby**). Danny 9 Oct 22:19: thanks; a few issues with the plans upon confirmation. Estimate **21148** sent 9 Oct 22:17. Wait reply. **No amounts.** Separate from skipped Bentley Estimate 21146 and T-093 Frontiersman Estimate **21147**. Do not invent scope.
+
+### T-095 — B&D Autobody / 1288 Napier Street
+- Status: waiting. Pri: P3.
+- Next: Danny 13 Oct 07:01 sent BP drawings to Hal (`hal@bdautobody.ca`) for submission (lights and plugs shown). Drive folder `2401 - 1288 Napier Street`. Wait Hal. **No amounts.** Do not invent permit conclusions.
