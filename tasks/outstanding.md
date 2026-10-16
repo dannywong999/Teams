@@ -21,29 +21,29 @@ Canonical live list of Architelier work. `@Cursor` instructs (drafts, replies, a
 
 ## Index
 
-Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-10-19.
+Last refreshed: 2026-10-16 (weekday 08:00 America/Vancouver). Next ID: **T-099**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-10-19.
 
 | ID | Pri | Status | Next |
 | --- | --- | --- | --- |
-| T-009 | P1 | open | Aerojet **today 14:00 Teams** (Danny asked 2pm; Jasper electrical still) |
-| T-014 | P1 | open | Hyewon **UNREAD**: 14 Oct meeting summary; submit complete revision package |
-| T-077 | P1 | open | Gurinder **UNREAD**: rough-in photos after inspection |
+| T-009 | P1 | open | Aerojet **today 13:00–14:00** Meet (Jasper + Wei accepted) |
+| T-014 | P1 | open | Hyewon **UNREAD**: meeting summary + corridor defs; Ruth **UNREAD** — close comments the fastest way |
 | T-003 | P1 | open | CoV **UNREAD**: **DP-2026-00681** more info; deadline **30 Sep overdue**; Gurmukh unanswered |
 | T-026 | P1 | open | Claudio unanswered: Evolve slab-on-grade — shops / field reviews / signed letters? |
 | T-074 | P1 | open | Nick: Renfrew close-out docs **overdue** from **EOD 7 Oct** |
 | T-075 | P1 | open | Unanswered Ehsan on Axiom completion cert; Burnaby final report 1 Oct |
-| T-005 | P2 | open | After 14 Oct 8am: CoV additional info / revised plans; follow Samantha answers |
-| T-078 | P2 | open | Framing report sent; Sara firestop photos; Nanaimo sprinkler **PASSED** |
-| T-057 | P2 | open | **21142** contracted (split LL/TI); proceed drawings |
-| T-088 | P2 | open | Danny 15 Oct: washroom circle cannot overlap sink; wait revised |
+| T-067 | P2 | open | Winnie firestop photos: Danny — lights must be fire-rated; wait what they used |
+| T-046 | P2 | open | Muji Mayfair: need all engineer schedules before final signoff; city final early next week |
+| T-005 | P2 | open | Glenn sent labeled plans; Danny 16 Oct “please change”; wait revised |
+| T-088 | P2 | open | Danny: no-overlap is universal (not VBBL-only); wait revised |
 | T-085 | P2 | open | Jerry: 4'-4" corridor at door 116 to stair — reply |
+| T-077 | P2 | open | Langford photos in; Dave asked makeup-air vent height — follow |
 | T-045 | P2 | open | Surrey wet-seal Sch B + 4 hard-copy sets still; sprinkler file sent Sabrina |
 | T-050 | P2 | open | Luis ready; Danny: handrail wrong + resent; wait revised |
 | T-013 | P2 | open | Danny offered **3:30** Metrotower 2 on 13 Oct; follow Rion / official set |
 | T-059 | P2 | open | CoV 13 Oct **BP-2026-00658** P3 Final **Not Ready** (2800 E 1st) |
-| T-073 | P2 | open | Adler field review was **Tue 13 Oct 12:30**; follow outcome |
+| T-078 | P2 | open | Framing report sent; Sara firestop photos; Nanaimo sprinkler **PASSED** |
+| T-057 | P2 | open | **21142** contracted (split LL/TI); proceed drawings |
 | T-072 | P2 | open | Sch C initialed + Sch E / COI sent 8 Oct; schedule dropped on site; follow Richmond final |
-| T-046 | P2 | open | Muji Mayfair Victoria finals were 8 Oct; follow outcome; washroom photos + EM / FA / sprinkler |
 | T-030 | P2 | open | Chris: studs-on-flat OK; follow IFC / Ehsan trades |
 | T-048 | P2 | open | Midland millwork still; two fridges held; stair flooring **Tue 20 Oct 9:00** |
 | T-062 | P2 | open | Sent Group D / cafe-ancillary justification; Aaron issued ID backgrounds |
@@ -52,7 +52,6 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 | T-034 | P2 | open | Verdun Unit 130: asked Amar to reconfirm two mezzanines + stair for structural |
 | T-090 | P2 | open | Crave Lonsdale: review Jennifer photos; T-bar + pull-station Qs |
 | T-066 | P2 | open | Firestop report resent; Moin: 952 vs 978 is same job; wait Tong framing report |
-| T-067 | P2 | open | 21331 Gordon Way Unit 3140 site report sent 22 Sep; follow Winnie |
 | T-047 | P2 | open | Chat Conor before Granville draft goes to estate |
 | T-017 | P2 | open | Joy: mech / ECO / VBBL outstanding; completeness still needs contractor BL |
 | T-021 | P2 | open | 280 E 6th site timing / missing schedules |
@@ -63,7 +62,9 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 | T-015 | P2 | open | Dr. Au city notes 26 Aug |
 | T-023 | P2 | open | Fusion Zoom was 2 Sep; no post-meeting mail |
 | T-001 | P2 | open | Create Grok Bot Outstanding |
-| T-098 | P3 | waiting | Hope Lutheran: Min SB/SC sent 14 Oct; Danny forwarded Todd; wait next |
+| T-098 | P3 | waiting | Hope Lutheran **A112 2099 Lougheed** / **BP015088**: Kevin closeout; Danny no stamped set on hand |
+| T-073 | P3 | waiting | Adler shops HWT/GRD: Danny not reviewed (mechanical); Nick proceeding |
+| T-041 | P3 | waiting | CoV use-class Q; Danny sent R3 operation letter; wait city |
 | T-097 | P3 | waiting | White Rock TI: Danny asked Doug for address to send proposal; no amounts |
 | T-096 | P3 | waiting | Amanda: send final drawings / permit status (2700 Dublin) |
 | T-092 | P3 | waiting | CEFA report sent; Todd Friday toilet-flange firestop photos |
@@ -76,8 +77,7 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 | T-043 | P3 | waiting | Nelson / June assembling reinspection package; unit 201 access disputed |
 | T-083 | P3 | waiting | Phoebe 8451/8455 No 5 Rd entry ramp: Danny said do it after |
 | T-086 | P3 | waiting | Robson site report sent; Devin uploaded to DB; wait site photos |
-| T-041 | P3 | waiting | Operation letter sent; pictures ok; CoV inquiry **201003687637**; wait ~10 business days |
-| T-018 | P3 | waiting | Edu sealed sanitary IFBP; Danny told Eugene to include in their submission |
+| T-018 | P3 | waiting | Danny 15 Oct: not attending Oct 20 site; wait MAK / Eugene |
 | T-036 | P3 | waiting | Singh Beans: looks good except need 1 more washroom; wait Melissa |
 | T-089 | P3 | waiting | 22071 48th / Murrayville signed report sent Todd 4 Oct |
 | T-091 | P3 | waiting | 1588 Alberni additional Sch B signed; Rose thanks |
@@ -144,7 +144,7 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 
 ### T-005 — The Key Clinic / CF-2026-002887
 - Status: open. Pri: P2.
-- Next: Troy 14 Oct 06:13: 8am works. Danny 14 Oct 15:39 forwarded CoV additional-info list (revised architectural plans / layout). Mailbox **CF-2026-002887** still open. Follow Samantha answers / revised plans. Do not log payments. Do not invent permit conclusions.
+- Next: Glenn 15 Oct sent plans with labeling changes (existing vs proposed; existing bathroom top-right). Danny 16 Oct 04:49 “Please change.” Mailbox **CF-2026-002887**. Wait revised set. Do not log payments. Do not invent permit conclusions.
 
 ### T-006 — Farm-market list package (not 7128 Kerr; not 7953)
 - Status: waiting. Pri: P3.
@@ -159,7 +159,7 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 
 ### T-009 — ATR Interior / Aerojet
 - Status: open. Pri: P1.
-- Next: Danny 14 Oct asked Nik to meet Thursday at 2pm. Calendar **Thu 15 Oct 14:00–14:30 Teams** (Danny accepted; updated 14 Oct 16:19). Jasper 14 Oct: site Thursday/Friday to review electrical outlets. Nik had first set 10:00. Attend today. Recurrence also Thu 22 Oct 14:00. Do not invent construction conclusions.
+- Next: Calendar **Fri 16 Oct 13:00–14:00** Aerojet Meet (Danny / Jasper / `wei@wgweng.com` accepted). Thu 15 Oct 14:00 Teams happened. Danny 15 Oct sent high-bay lighting options for the shop. Weekly touch point also **Thu 22 Oct 14:00**. Attend today. Do not invent construction conclusions.
 
 ### T-010 — 5505 Montgomery plumbing (City of Burnaby)
 - Status: waiting. Pri: P3.
@@ -179,7 +179,7 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 
 ### T-014 — Coquitlam additional dwelling unit / 501 Nelson
 - Status: open. Pri: P1.
-- Next: In-person city meeting happened **Wed 14 Oct**. Hyewon 14 Oct 23:27 **UNREAD**: meeting summary attached; provide necessary revisions / required documents as a complete package. Danny 14 Oct followed the Level 2 corridor between Medical Clinic Unit #201 and Dental Clinic Unit #202. Ruth/Carlo debrief invite same afternoon (Danny: today ok). Noble layout CAD / occupant-load is owner-side on this job — not a new ID. Submit complete package. Separate from T-057, T-063, and T-092. Do not invent code conclusions.
+- Next: Hyewon 14 Oct 23:27 **UNREAD**: meeting summary; submit a complete revision package. Hyewon 15 Oct: before corridor clarification, see BCBC 2024 Div A 1.4.1.2.(1) definitions. Ruth 15 Oct 17:48 **UNREAD**: close comments the fastest way. Noble layout CAD / occupant-load is owner-side — not a new ID. Reply / submit complete package. Separate from T-057, T-063, and T-092. Do not invent code conclusions.
 
 ### T-015 — Dr. Au / 7326 Canada Way
 - Status: open. Pri: P2.
@@ -195,7 +195,7 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 
 ### T-018 — Kamloops / MAK Architecture / BCGEU
 - Status: waiting. Pri: P3.
-- Next: Edu 6 Oct sent sealed Issued-for-Building-Permit sanitary servicing plan (Drive `432-1 BCGEU Kamloops Office - Sanitary Servicing Plan - IFBP - Sealed - 2026-10-06.pdf`). Danny 7 Oct: Eugene’s team is submitting and must coordinate it into the package. Wait MAK / Eugene. Do not invent permit conclusions.
+- Next: Tayah 15 Oct asked if still set for site **20 Oct**. Danny: will not attend (no fees on this project for that). Edu 6 Oct sent sealed IFBP sanitary servicing plan. Wait MAK / Eugene. Do not invent permit conclusions. **No amounts.**
 
 ### T-019 — May Nails / James issued
 - Status: waiting. Pri: P3.
@@ -287,7 +287,7 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 
 ### T-041 — 115 West 4th Avenue
 - Status: waiting. Pri: P3.
-- Next: Derek 6 Oct asked if the operation letter went in and if Bruce’s pictures arrived. Danny: yes sent; pictures look ok. CoV Building and Development Inquiry **201003687637** created 4 Oct (~10 business days). Wait CoV. Separate from T-003. **No amounts.**
+- Next: Isidora (CoV) 15 Oct: resubmitted; asked more detail on the nature of the business for use classification. Danny 15 Oct sent revised operation letter (Drive `Smith_Industries_Operational_Letter_115_W_4th R3`). Inquiry **201003687637**. Wait CoV. Separate from T-003. **No amounts.**
 
 ### T-042 — 260 / 422 E 3rd NV / La Vita Lounge
 - Status: waiting. Pri: P3.
@@ -307,7 +307,7 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 
 ### T-046 — Muji Mayfair fire extinguishers
 - Status: open. Pri: P2.
-- Next: Victoria finals were **Thu 8 Oct**. No later Muji mail. Danny 6 Oct: generally okay; need washroom and general-area photos; EM testing, FA, and sprinkler verification. Mir providing seismic sign-off. Follow outcome. Separate from T-079 Coquitlam. Do not invent fire-code conclusions.
+- Next: Danny 15 Oct sent Site Report 2. Jay: Blueline docs in Drive; city final early next week; electrician completed own seismic — remove electrical from Mir’s schedule. Danny 16 Oct: need all engineer schedules before final signoff. Follow schedules then city final. Separate from T-079 Coquitlam. Do not invent fire-code conclusions.
 
 ### T-047 — 2928 Granville Street
 - Status: open. Pri: P2.
@@ -391,7 +391,7 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 
 ### T-067 — 21331 Gordon Way Unit 3140 / Daily Fresh Shellfish
 - Status: open. Pri: P2.
-- Next: Site visit **Mon 21 Sep 3:30pm**. Winnie sent photos + architectural/structural PDFs. Danny 22 Sep sent `Site-Report-2026-09-21.pdf`. Drive Construction folder 22 Sep under `2602 - 21331 Gordon Way, Unit 3140`. Follow Winnie / next field action. Do not invent inspection conclusions.
+- Next: Winnie 15 Oct sent warehouse fire-stopping photos (plus two drywall panels). Danny 16 Oct: lights need to be fire-rated (usually red back); asked what was used. Wait Winnie. Do not invent inspection conclusions.
 
 ### T-068 — WSP / SFU Lorne Davies mechanical room
 - Status: waiting. Pri: P3.
@@ -414,8 +414,8 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 - Next: Danny 8 Oct dropped schedule on site; initialed digital Sch C (`NW26074_CU-VISION-SCHC-B_20261001.pdf`); sent Sch E and COI. Exit-door memo `830-6388 No 3 Road - Memo Unit Exit Door 2026-10-08`. Valentina: final was booked. Follow Richmond occupancy outcome. Separate from T-078. Do not invent occupancy conclusions.
 
 ### T-073 — Adler Group IFC
-- Status: open. Pri: P2.
-- Next: Field review calendar **Tue 13 Oct 12:30** at 320 Granville Unit 1170 happened (no later Adler mail). Follow outcome / remaining items. Adler is **1170-320 Granville**, not 401 W Georgia (T-087). Do not invent construction conclusions.
+- Status: waiting. Pri: P3.
+- Next: Nick 15 Oct sent HWT/GRD shops for final review. Danny: keep on record; not reviewed; all mechanical. Nick proceeding. Field review was **Tue 13 Oct 12:30**. Adler is **1170-320 Granville**, not 401 W Georgia (T-087). Wait remaining field / occupancy path. Do not invent construction conclusions.
 
 ### T-074 — Renfrew Centre Demise closeout
 - Status: open. Pri: P1.
@@ -430,8 +430,8 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 - Next: Canadian Blueprint 23 Sep quote request for tutoring-centre TI (#160 4664 Lougheed Hwy, Burnaby). 15 students + 4 staff; sprinklered; no partition changes; as-built demising walls differ from city records. Danny 24 Sep sent the quote (Schedule B; add Schedule A if required). Wait Blueprint. **No amounts.** Do not invent code conclusions.
 
 ### T-077 — Langford Liquor Store / architectural rough-in
-- Status: open. Pri: P1.
-- Next: Gurinder 15 Oct 14:32 **UNREAD**: photos following the rough-in inspection as requested. Virtual rough-in was **Fri 25 Sep 10:30am**. Review photos / next field action. Do not invent inspection conclusions.
+- Status: open. Pri: P2.
+- Next: Gurinder 15 Oct sent rough-in photos (Drive). Dave: makeup-air vent — height at bottom of duct; hold off updating city on removal until Karam. Virtual rough-in was **Fri 25 Sep 10:30am**. Follow photos / Dave Q. Do not invent inspection conclusions.
 
 ### T-078 — Origin Optometry / 5200 Dublin Way
 - Status: open. Pri: P2.
@@ -475,7 +475,7 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 
 ### T-088 — 2-3009 Murray Street / Studio Ten / Grumpy Bunny / BP007407
 - Status: open. Pri: P2.
-- Next: Danny 15 Oct 14:29: the accessible-washroom circle cannot overlap the sink; that diagram overlap is not permissible. Angela 8 Oct: BCBC / UAG dimensions met; asked 2024 BCBC reference if Danny’s wider-clearance note differs. Exit signs / auto doors still out; elevations unfinished. Port Moody **BP007407**. Wait revised drawings. Separate from T-065 (3075 Murray Unit 6). Do not log invoice. Do not invent code conclusions.
+- Next: Lori 15 Oct: project is Port Moody — is no-overlap VBBL-specific? Danny: no, universal; bulletins say no overlapping; try at own risk. Wait revised drawings. Port Moody **BP007407**. Separate from T-065 (3075 Murray Unit 6). Do not log invoice. Do not invent code conclusions.
 
 ### T-089 — 22071 48th Avenue / Murrayville
 - Status: waiting. Pri: P3.
@@ -515,4 +515,4 @@ Last refreshed: 2026-10-15 (weekday 08:00 America/Vancouver). Next ID: **T-099**
 
 ### T-098 — Hope Lutheran retractable wall
 - Status: waiting. Pri: P3.
-- Next: Min 14 Oct sent digitally signed/sealed SB/SC and report. Danny forwarded to Todd. Andy: inspector asked for Schedule AB and BC on the permit notes. Wait Todd / city next. Do not log invoices. Do not invent inspection conclusions.
+- Next: Civic **A112 2099 Lougheed Hwy** / Port Coquitlam **BP015088** (Hope Lutheran). Kevin 16 Oct asked for BP documents, stamped drawings, and consultant schedules to close out. Danny: does not have stamped permit drawings; they should be hard copies on site. Min SB/SC already forwarded Todd. Wait Kevin / site set. Do not log invoices. Do not invent inspection conclusions.
