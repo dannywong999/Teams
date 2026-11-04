@@ -85,7 +85,7 @@ Last refreshed: 2026-11-04 (weekday 08:00 America/Vancouver). Next ID: **T-110**
 | T-107 | P3 | waiting | TCC liquor layouts stamped 31 Oct; wait Jennifer / VFS |
 | T-097 | P3 | waiting | Estimate **21149** sent Irene 1 Nov; wait White Rock reply |
 | T-105 | P3 | waiting | Danny 2 Nov chased Estimate **21128**; wait Natalie |
-| T-005 | P3 | waiting | Troy: hold off upload; no new mail through **Tue 3 Nov** |
+| T-005 | P3 | waiting | Troy: hold off upload; no new mail through **Wed 4 Nov** |
 | T-100 | P3 | waiting | Langley IUD clinic bid sent Jessica 19 Oct; wait reply; no amounts |
 | T-098 | P3 | waiting | Hope Lutheran **BP015088**: Larry completed permit; Kevin sent soft copies |
 | T-095 | P3 | waiting | CoV **BP-2024-00433** 1288 Napier **completed** / final inspection performed |
