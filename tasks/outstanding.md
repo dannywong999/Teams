@@ -21,18 +21,16 @@ Canonical live list of Architelier work. `@Cursor` instructs (drafts, replies, a
 
 ## Index
 
-Last refreshed: 2026-11-10 (weekday 08:00 America/Vancouver). Next ID: **T-118**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-11-12.
+Last refreshed: 2026-11-11 (weekday 08:00 America/Vancouver). Next ID: **T-120**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-11-12.
 
 | ID | Pri | Status | Next |
 | --- | --- | --- | --- |
-| T-117 | P1 | open | Melissa **UNREAD**: stamp + code block Grace Fertility BP set |
-| T-023 | P1 | open | Tezun **UNREAD**: Evolution L12 game-room; amendment vs new permit / fee |
+| T-118 | P1 | open | Doug **UNREAD**: T&T quote + PM name by **Thu 12 Nov** |
+| T-109 | P1 | open | Tamara **UNREAD** Aarc West follow-up; proposal due **Fri 13 Nov** |
+| T-110 | P1 | open | Marco **UNREAD**: FaceTime walk-through; field review **Thu** |
+| T-062 | P1 | open | Aaron **UNREAD**: QC Bentall Lobby application wording / kiosks |
 | T-107 | P1 | open | Larry **UNREAD**: send Suite **411** TCC drawings to sprinkler engineers |
-| T-041 | P1 | open | Gilles **UNREAD**: stair stringer / landing photos; Yeming letter |
-| T-073 | P1 | open | Peter **UNREAD** mech Sch CB to initial; Wei elec final in; inspection soon |
-| T-109 | P1 | open | Tamara **UNREAD** Aarc West; promised proposal **Mon**; due **Fri 13 Nov** |
-| T-110 | P1 | open | Marco: W7 XPS vs batt; field review **Thu**; photos still |
-| T-108 | P1 | open | Dave **UNREAD**: BMAC ORs; field review still open |
+| T-023 | P1 | open | Tezun **UNREAD**: Evolution L12 game-room; amendment vs new permit / fee |
 | T-081 | P1 | open | Meliza: occupant-load note on cover; still need confirm / analysis |
 | T-019 | P1 | open | Thai RFI #3 fire devices / sprinklers; Birinder markup in; confirm |
 | T-003 | P1 | open | Samantha **UNREAD**: stats / red bubbles still missing; cancel was **27 Oct** |
@@ -40,8 +38,9 @@ Last refreshed: 2026-11-10 (weekday 08:00 America/Vancouver). Next ID: **T-118**
 | T-026 | P1 | open | Claudio unanswered: Evolve slab-on-grade — shops / field reviews / signed letters? |
 | T-075 | P1 | open | Axiom completion cert still unanswered; Ehsan paid 24 Oct (no amounts) |
 | T-009 | P2 | open | Weekly **Thu 12 Nov 15:00**; Koston **UNREAD** elec; entrance remain walk-through |
-| T-111 | P2 | open | CB issued 9 Nov; wait Surrey final (booked **Tue**) |
-| T-062 | P2 | open | Danny: leave code analysis; wait Aaron application wording / kiosks same permit |
+| T-041 | P2 | open | Satwik comfort letter in; wait Yeming stair letter |
+| T-073 | P2 | open | Signed Sch CB sent; seismic letters in; wait FA / Schedule L |
+| T-111 | P2 | open | CB issued 9 Nov; wait Surrey final |
 | T-013 | P2 | open | CAD issued; Rion asked consultant timelines |
 | T-016 | P2 | open | Remaining Sch CB signed 6 Nov; wait Medora close-out |
 | T-113 | P2 | open | Danny: proceed Robin layout; wait scan / core |
@@ -82,6 +81,9 @@ Last refreshed: 2026-11-10 (weekday 08:00 America/Vancouver). Next ID: **T-118**
 | T-103 | P2 | open | Danny sent stamped set 2 Nov; wait Robin / engineers |
 | T-001 | P2 | open | Create Grok Bot Outstanding |
 | T-014 | P3 | waiting | Letters accepted; no alt-sol; Hyewon: BP maybe end of next week |
+| T-108 | P3 | waiting | Site Report 1 issued 11 Nov; wait city / Dave |
+| T-117 | P3 | waiting | Stamped Grace Fertility set sent Melissa 11 Nov; wait resubmit |
+| T-119 | P3 | waiting | Sign-off sent 10 Nov (13880 Wireless Way 206/208); wait city |
 | T-045 | P3 | waiting | Landscape inspection requested Surrey 9 Nov; wait Trees & Landscape |
 | T-115 | P3 | waiting | Estimate **21153** sent Tom 9 Nov (Dan-D Pak Machrina DP); wait reply |
 | T-042 | P3 | waiting | Signed drainboard / washroom set sent Ben 6 Nov; wait CNV |
@@ -96,7 +98,7 @@ Last refreshed: 2026-11-10 (weekday 08:00 America/Vancouver). Next ID: **T-118**
 | T-074 | P3 | waiting | Renfrew demise CAD sent Nick 27 Oct; wait remaining close-out |
 | T-097 | P3 | waiting | Estimate **21149** sent Irene 1 Nov; wait White Rock reply |
 | T-105 | P3 | waiting | Danny 2 Nov chased Estimate **21128**; wait Natalie |
-| T-005 | P3 | waiting | Troy: hold off upload; no new mail through **Tue 10 Nov** |
+| T-005 | P3 | waiting | Troy: hold off upload; no new mail through **Wed 11 Nov** |
 | T-100 | P3 | waiting | Langley IUD clinic bid sent Jessica 19 Oct; wait reply; no amounts |
 | T-098 | P3 | waiting | Hope Lutheran **BP015088**: Larry completed permit; Kevin sent soft copies |
 | T-095 | P3 | waiting | CoV **BP-2024-00433** 1288 Napier **completed** / final inspection performed |
@@ -163,7 +165,7 @@ Last refreshed: 2026-11-10 (weekday 08:00 America/Vancouver). Next ID: **T-118**
 
 ### T-005 — The Key Clinic / CF-2026-002887
 - Status: waiting. Pri: P3.
-- Next: Gurmukh uploaded updated files; SBA closed Mon–Tue. Danny: can upload after payment complete. Troy 19 Oct: hold off; should know more tomorrow/Tuesday about funds. No new Troy mail through **Tue 10 Nov**. Mailbox **CF-2026-002887**. Wait Troy. Do not log payments. Do not invent permit conclusions.
+- Next: Gurmukh uploaded updated files; SBA closed Mon–Tue. Danny: can upload after payment complete. Troy 19 Oct: hold off; should know more tomorrow/Tuesday about funds. No new Troy mail through **Wed 11 Nov**. Mailbox **CF-2026-002887**. Wait Troy. Do not log payments. Do not invent permit conclusions.
 
 ### T-006 — Farm-market list package (not 7128 Kerr; not 7953)
 - Status: waiting. Pri: P3.
@@ -305,8 +307,8 @@ Last refreshed: 2026-11-10 (weekday 08:00 America/Vancouver). Next ID: **T-118**
 - Next: Feasibility proposal sent Juan 4 Sep. Wait Juan. **No amounts.**
 
 ### T-041 — 115 West 4th Avenue
-- Status: open. Pri: P1.
-- Next: Gilles 9 Nov **UNREAD**: Bruce stair stringer + landing photos. Adesuwa: lighting compliance must cover the entire area; note existing plumbing on the plans; signed/sealed letter of professional judgement for the stairs is OK at intake. Forward photos / Yeming letter (existing stair; no photo). **BP-2026-03566**. Separate from T-003. Do not invent permit conclusions. **No amounts.**
+- Status: open. Pri: P2.
+- Next: Satwik 10 Nov sent a plumbing comfort letter. Yeming will start the stair letter. Gilles/Bruce stringer + landing photos in. Adesuwa: lighting whole-area; stair letter OK at intake. Wait Yeming letter then intake. **BP-2026-03566**. Separate from T-003. Do not invent permit conclusions. **No amounts.**
 
 ### T-042 — 260 / 422 E 3rd NV / La Vita Lounge
 - Status: waiting. Pri: P3.
@@ -366,7 +368,7 @@ Last refreshed: 2026-11-10 (weekday 08:00 America/Vancouver). Next ID: **T-118**
 
 ### T-056 — Pears Restaurant / Coal Harbour
 - Status: waiting. Pri: P3.
-- Next: Wait Doug luncheon details. No later mail. Do not invent scope.
+- Next: Wait Doug luncheon details. T&T remodel quote is T-118, not this. Do not invent scope.
 
 ### T-057 — 1369 United Blvd / Coquitlam daycare TI
 - Status: open. Pri: P2.
@@ -389,8 +391,8 @@ Last refreshed: 2026-11-10 (weekday 08:00 America/Vancouver). Next ID: **T-118**
 - Next: Danny 29 Sep initialed the Campbell River Anytime Fitness permit sprinkler drawing and schedule (Drive `260565 Anytime Fitness Campbell River - FS - Schedule B.pdf`). Ehsan thanks. Wait Ehsan / city. Do not invent code conclusions.
 
 ### T-062 — Bentall 4 Lobby / 1055 Dunsmuir
-- Status: open. Pri: P2.
-- Next: Aaron 4 Nov: Jayme wants food-service kiosks on the same permit — change of use? Danny 5 Nov: leave the code analysis as is; send all scope wording including the application form for QC. Still waiting Schedule A, E-1, consultant Bs. Wait Aaron package then QC. Do not invent code conclusions. **No amounts.**
+- Status: open. Pri: P1.
+- Next: Aaron 10 Nov **UNREAD** follow-up: application / data sheet in; Schedule A & E-1 still with HPP. Danny 5 Nov: leave code analysis as is; QC all scope wording. Review application wording / kiosks same permit. Do not invent code conclusions. **No amounts.**
 
 ### T-063 — CEFA Daycare / Brookswood Langley
 - Status: waiting. Pri: P3.
@@ -433,8 +435,8 @@ Last refreshed: 2026-11-10 (weekday 08:00 America/Vancouver). Next ID: **T-118**
 - Next: Danny 8 Oct dropped schedule on site; initialed digital Sch C (`NW26074_CU-VISION-SCHC-B_20261001.pdf`); sent Sch E and COI. Exit-door memo `830-6388 No 3 Road - Memo Unit Exit Door 2026-10-08`. Valentina: final was booked. Follow Richmond occupancy outcome. Separate from T-078. Do not invent occupancy conclusions.
 
 ### T-073 — Adler Group IFC
-- Status: open. Pri: P1.
-- Next: Peter 9 Nov **UNREAD**: mechanical Schedule C-B for Danny to initial. Wei issued the electrical final-review report; Nick: deficiencies complete, photos coming; inspection soon. Still pushing back on Schedule L — **no amounts**. Initial Peter’s CB. Adler is **1170-320 Granville**, not 401 W Georgia (T-087). Do not invent construction conclusions.
+- Status: open. Pri: P2.
+- Next: Danny 10 Nov sent the signed Schedule C-B; Nick thanks. Nick also forwarded mechanical seismic S-B / S-C for record. Still pushing back on Schedule L — **no amounts**. Wait FA / remaining close-out. Adler is **1170-320 Granville**, not 401 W Georgia (T-087). Do not invent construction conclusions.
 
 ### T-074 — Renfrew Centre Demise closeout
 - Status: waiting. Pri: P3.
@@ -573,16 +575,16 @@ Last refreshed: 2026-11-10 (weekday 08:00 America/Vancouver). Next ID: **T-118**
 - Next: Larry Swift 9 Nov **UNREAD**: sprinkler engineers for Suite **411** Terminal City Club need current drawings. Send the set. Earlier: site-wide liquor layouts stamped 31 Oct. Separate from T-090 Crave Lonsdale. Do not invent occupancy conclusions.
 
 ### T-108 — 8111 MacPherson Avenue / field reviews
-- Status: open. Pri: P1.
-- Next: Dave 2–4 Nov **UNREAD**: BMAC observation reports (OR#1–6); pour was **Thu 5 / Fri 6 Nov**; wants a green light / site visit. 4 Nov: damp-proofing warranty letter + photos. 3 Nov: damp-proof passed the city; inspection report — please complete the field review. Review ORs / reply. Separate from T-050. Do not invent construction conclusions. **No amounts.**
+- Status: waiting. Pri: P3.
+- Next: Danny 11 Nov issued Site Report 1. Dave 10 Nov sent revised house plans + WeTransfer photos and asked for a passed field review. Wait city / Dave. Separate from T-050. Do not invent construction conclusions. **No amounts.**
 
 ### T-109 — Aarc West / 5671 Production Way Langley
 - Status: open. Pri: P1.
-- Next: Danny 9 Nov: will send a proposal end of that day — not sent through **Tue 10 Nov**. Tamara 3 Nov **UNREAD** RFP + PDF. Industrial renovation, **25,650 sf**, Light Industrial **I1**. Due **Fri 13 Nov**. Send proposal. Separate from T-100 Langley IUD and T-111. **No amounts.** Do not invent permit conclusions.
+- Next: Tamara 10 Nov **UNREAD** follow-up: still waiting on the proposal. Due **Fri 13 Nov**. Industrial renovation, **25,650 sf**, Light Industrial **I1**. Send proposal. Separate from T-100 Langley IUD and T-111. **No amounts.** Do not invent permit conclusions.
 
 ### T-110 — Bar Tifo / 1604 Commercial Drive
 - Status: open. Pri: P1.
-- Next: Danny 9 Nov: away until **Thu**; asked washroom / general photos; offered virtual review with Eric. Marco: W7 fur-out — 2" XPS conflicts with steel-to-CMU tie-backs; proposes R-14 batt in 6" studs. Field review **Thu**. Confirm assembly. Do not invent inspection conclusions.
+- Next: Marco 10 Nov **UNREAD**: FaceTime walk-through while on site in the mornings — five minutes on framing / tie-backs. W7: 2" XPS conflicts with steel-to-CMU clips; proposes R-14 batt in 6" studs. Field review **Thu**. Confirm time / assembly. Do not invent inspection conclusions.
 
 ### T-111 — Chaiiwala of London / 14455 64 Avenue Surrey
 - Status: open. Pri: P2.
@@ -602,12 +604,20 @@ Last refreshed: 2026-11-10 (weekday 08:00 America/Vancouver). Next ID: **T-118**
 
 ### T-115 — Dan-D Pak Innovation Centre / 11760 Machrina Way Richmond
 - Status: waiting. Pri: P3.
-- Next: Danny 9 Nov sent Estimate **21153** to Tom. Wait Fusion reply. Address **11760 Machrina Way**. Danny also intro’d Tim to Joe Hoy (EXP) for envelope. Separate from T-073 Adler. **No amounts.** Do not invent permit conclusions.
+- Next: Danny 9 Nov sent Estimate **21153** to Tom. Wait Fusion reply. Joe Hoy 10 Nov: envelope — Danny is DP only; Joe free to detail. Separate from T-073 Adler. **No amounts.** Do not invent permit conclusions.
 
 ### T-116 — Soundworks Nanaimo / market-hall demising
 - Status: waiting. Pri: P3.
 - Next: Danny 7 Nov sent Estimate **21152** to Amber / Colin (MAK). Amber: only the red-marked partitions; ~7500 sf; no washroom / BB changes; basic fee seems right. Wait MAK reply. Separate from T-078 Origin Optometry Nanaimo. **No amounts.**
 
 ### T-117 — Grace Fertility / Ark & Mason BP set
+- Status: waiting. Pri: P3.
+- Next: Danny 11 Nov sent the stamped set (“As attached”). Wait Melissa resubmit. Separate from T-046 Muji Mayfair. **No amounts.** Do not invent permit conclusions.
+
+### T-118 — T&T remodel / D A Horvath Consultants
 - Status: open. Pri: P1.
-- Next: Melissa Lee (Ark & Mason) 9 Nov **UNREAD**: revisions to the building-permit set (`GRACE FERTILITY 11.04.26 RFP.pdf`) — add the new code block, stamp and sign if OK, then she will resubmit. Stamp / return. Separate from T-046 Muji Mayfair. **No amounts.** Do not invent permit conclusions.
+- Next: Doug Horvath 10 Nov **UNREAD**: T&T asked him to get a quote from Architelier; needs the PM name and whether a quote is ready; a full proposal is needed by **tomorrow (Thu 12 Nov)**. Send quote / PM name. Separate from T-056 Pears luncheon. **No amounts.** Do not invent scope.
+
+### T-119 — 13880 Wireless Way Units 206 & 208 / Prosperous Square
+- Status: waiting. Pri: P3.
+- Next: Danny 10 Nov sent architect sign-off plus Invoice 22314. Wait city. Separate from T-087 Zayo. **No amounts.** Do not invent permit conclusions.
