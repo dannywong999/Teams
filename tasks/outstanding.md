@@ -21,7 +21,7 @@ Canonical live list of Architelier work. `@Cursor` instructs (drafts, replies, a
 
 ## Index
 
-Last refreshed: 2026-11-23 (weekday 08:00 America/Vancouver). Next ID: **T-129**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-11-24.
+Last refreshed: 2026-11-23 (weekday 08:00 America/Vancouver). Next ID: **T-129**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-11-30.
 
 | ID | Pri | Status | Next |
 | --- | --- | --- | --- |
