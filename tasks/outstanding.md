@@ -21,33 +21,36 @@ Canonical live list of Architelier work. `@Cursor` instructs (drafts, replies, a
 
 ## Index
 
-Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-11-30.
+Last refreshed: 2026-11-26 (weekday 08:00 America/Vancouver). Next ID: **T-134**. T-001 still open — `@Cursor` still covers this weekday refresh. Timer `weekday-outstanding-reconcile` expires 2026-11-30.
 
 | ID | Pri | Status | Next |
 | --- | --- | --- | --- |
-| T-081 | P1 | open | Meliza **UNREAD**: stamp/seal Abbotsford IFBP |
-| T-034 | P1 | open | Tiru **UNREAD**: proceed alt-sol; mezz is office not workout |
-| T-066 | P1 | open | Aman: arch review shaft + Holy Shakes grease duct; trip test **Fri 27 Nov** |
-| T-013 | P1 | open | Helen **UNREAD**: add entrance canopies on 5514 Smith plans |
-| T-116 | P1 | open | Eugenie **UNREAD**: review Market Hall BP set + new shaft |
+| T-003 | P1 | open | Samantha: docs by **Thu 3 Dec** or cancel; Danny forwarded to Troy |
+| T-052 | P1 | open | Juan **UNREAD**: initial revised structural Sch B (Weisbrod) |
+| T-132 | P1 | open | Melissa **UNREAD**: quote Soie Salon 4388 Fraser change-of-use |
+| T-058 | P1 | open | Avan **UNREAD**: reply to Steven on 125 Park structural |
 | T-085 | P1 | open | Jerry **UNREAD**: Alpine dual-swing inside clear ~32.5" |
-| T-052 | P1 | open | Juan **UNREAD**: sign/seal Sch A + CB; city checklist; title search |
+| T-034 | P1 | open | Tiru **UNREAD**: proceed alt-sol; mezz is office not workout |
+| T-066 | P1 | open | Arch review shaft + Holy Shakes grease duct; trip test **Fri 27 Nov 11:00** |
+| T-116 | P1 | open | Eugenie **UNREAD**: review Market Hall BP set + new shaft |
 | T-129 | P1 | open | Melissa **UNREAD**: CoV intake **BP-2026-03121** (604 W Broadway #300) |
-| T-126 | P1 | open | Tim **UNREAD**: non-sprinkler strategy; site **today Wed 25 Nov 10:00** |
-| T-026 | P1 | open | Shawn **UNREAD**: photos vs site before Evolve final (Thu this week) |
+| T-026 | P1 | open | Shawn **UNREAD**: photos vs site before Evolve final |
 | T-079 | P1 | open | Melissa **UNREAD**: Muji Coquitlam cash-desk 3'-4" space plan |
 | T-009 | P1 | open | Jessica: Mahender gone; what is Richmond **#26-005025** vs **#26-002100** |
 | T-107 | P1 | open | Larry **UNREAD**: send Suite **411** TCC drawings to sprinkler engineers |
-| T-003 | P1 | open | Samantha: stats / red bubbles still missing; cancel was **27 Oct** |
 | T-104 | P1 | open | Avan: review ToL reply before he tells client feasible |
 | T-075 | P1 | open | Axiom completion cert still unanswered; Ehsan paid 24 Oct (no amounts) |
-| T-062 | P2 | open | Occupancy call done; wait Aaron sets **Fri** after revised code analysis |
-| T-019 | P2 | open | Site **today Wed 25 Nov 09:00**; Vince: firestop caulk OK if ULC listed |
+| T-062 | P2 | open | Occupancy call done; wait Aaron sets **Fri 27 Nov** after revised code analysis |
+| T-126 | P2 | open | Port Moody site was **Wed 25 Nov**; wait pricing **Mon 30 Nov** |
+| T-013 | P2 | open | Blueprint to add Smith canopies; wait Voltas on gas meter |
+| T-019 | P2 | open | Site Report 1 issued 25 Nov (framing / firestop OK); wait city |
+| T-081 | P2 | open | IFBP sealed; wait Meliza signed Sch A + AquaVolt coord |
+| T-133 | P2 | open | Review BDS Gilmore IFC / CCNs before remobilize **Fri 4 Dec** |
 | T-131 | P2 | open | Avan 1724 W 4th: rated floor assembly; wait function |
 | T-108 | P2 | open | Wait Dave ULC assembly for post + beam; exterior 3D finalized |
 | T-042 | P2 | open | Ben: ADO already; Danny resent La Vita set; wait 5' x 5'-7" |
 | T-015 | P2 | open | Site Report 1 issued 20 Nov; Vince connecting-door Q still |
-| T-041 | P2 | open | Gilles: OT form / metal stair rails; city fees paid; wait city |
+| T-041 | P2 | open | OT form sent; city may not accept 100%; wait city |
 | T-043 | P2 | open | June sent CNV 17 Nov fire-sep / firestop PDFs; confirm Site Report 4 |
 | T-111 | P2 | open | Asaraf: backflow / emergency lighting reports; Satwik schedules |
 | T-073 | P2 | open | Signed Sch CB sent; seismic letters in; wait FA / Schedule L |
@@ -62,7 +65,6 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 | T-101 | P2 | open | Dhawal 16 Nov S&S + Sch B (Country Acres); start Schedules |
 | T-083 | P2 | open | Drain tile 4→6"; wait Phoebe site photos then resubmit |
 | T-087 | P2 | open | Elec-room rating site report sent Azaan 9 Nov; wait remaining R1 |
-| T-058 | P2 | open | 125 Park topo in; put on plan; ask civil road dedication timing |
 | T-088 | P2 | open | Danny: no-overlap is universal (not VBBL-only); wait revised |
 | T-120 | P2 | open | Wait James / Trimet racking drawings after Thu call |
 | T-077 | P2 | open | Langford photos in; Dave asked makeup-air vent height — follow |
@@ -112,7 +114,7 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 | T-074 | P3 | waiting | Renfrew demise CAD sent Nick 27 Oct; wait remaining close-out |
 | T-097 | P3 | waiting | Estimate **21149** sent Irene 1 Nov; wait White Rock reply |
 | T-105 | P3 | waiting | Danny 2 Nov chased Estimate **21128**; wait Natalie |
-| T-005 | P3 | waiting | Troy: hold off upload; no new mail through **Wed 25 Nov** |
+| T-005 | P3 | waiting | Troy: hold off upload; no new Key Clinic mail through **Thu 26 Nov** |
 | T-100 | P3 | waiting | Langley IUD clinic bid sent Jessica 19 Oct; wait reply; no amounts |
 | T-098 | P3 | waiting | Hope Lutheran **BP015088**: Larry completed permit; Kevin sent soft copies |
 | T-095 | P3 | waiting | CoV **BP-2024-00433** 1288 Napier **completed** / final inspection performed |
@@ -169,7 +171,7 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 
 ### T-003 — Change-of-use / 750 Pacific Blvd Unit B105
 - Status: open. Pri: P1.
-- Next: Samantha 22 Oct: stats still missing site area, floor area, and sq ft of proposed changes; proposed changes should be bubbled in red. Upload revised plans. Cancellation date was **27 Oct**. Danny forwarded to Gurmukh. Fees added to the account — **no amounts**. Gurmukh 24 Sep `Status update.pdf` still unanswered. Do not invent permit conclusions.
+- Next: Samantha 25 Nov: outstanding docs and fees by **Thu 3 Dec** or the application is cancelled. Stats / red bubbles still missing. Danny 26 Nov forwarded to Troy (“For your actions”). **No amounts.** Do not invent permit conclusions.
 
 ### T-004 — 20501 Logan / Vulcan (City of Langley)
 - Status: waiting. Pri: P3.
@@ -177,7 +179,7 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 
 ### T-005 — The Key Clinic / CF-2026-002887
 - Status: waiting. Pri: P3.
-- Next: Gurmukh uploaded updated files; SBA closed Mon–Tue. Danny: can upload after payment complete. Troy 19 Oct: hold off; should know more tomorrow/Tuesday about funds. No new Troy mail through **Wed 25 Nov**. Mailbox **CF-2026-002887**. Wait Troy. Do not log payments. Do not invent permit conclusions.
+- Next: Gurmukh uploaded updated files; SBA closed Mon–Tue. Danny: can upload after payment complete. Troy 19 Oct: hold off; should know more tomorrow/Tuesday about funds. No new Key Clinic Troy mail through **Thu 26 Nov**. Mailbox **CF-2026-002887**. Wait Troy. Do not log payments. Do not invent permit conclusions.
 
 ### T-006 — Farm-market list package (not 7128 Kerr; not 7953)
 - Status: waiting. Pri: P3.
@@ -207,8 +209,8 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 - Next: Wait City of Burnaby.
 
 ### T-013 — 5514 Smith Avenue Unit 6
-- Status: open. Pri: P1.
-- Next: Helen 25 Nov **UNREAD**: add metal entrance canopies on floor plans and elevations so structural can calculate the plate fixings. Coord meeting was **Mon 23 Nov**. **No amounts.** Do not invent code conclusions.
+- Status: open. Pri: P2.
+- Next: Danny 25 Nov: Blueprint to add the entrance canopies. Helen asked Voltas about west-side gas meter. Wait Blueprint / Voltas. **No amounts.** Do not invent code conclusions.
 
 ### T-014 — Coquitlam additional dwelling unit / 501 Nelson
 - Status: waiting. Pri: P3.
@@ -232,7 +234,7 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 
 ### T-019 — May Nails / James issued
 - Status: open. Pri: P2.
-- Next: Site **today Wed 25 Nov 09:00** (3593 Kingsway). Vince: firestop caulk OK if ULC listed / approved method. Thai: 4-hour CAN/ULC-S115 product for L1–P1. Do not invent code conclusions.
+- Next: Danny 25 Nov issued Site Report 1 (framing generally complete and satisfactory; firestopping completed and satisfactory) for Thai’s framing inspection. Wait city. Do not invent inspection conclusions.
 
 ### T-020 — 418 E 46th development / rezoning (City of Vancouver)
 - Status: waiting. Pri: P3.
@@ -308,7 +310,7 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 
 ### T-038 — McCartney / Raincity
 - Status: waiting. Pri: P3.
-- Next: Danny 22 Nov: sliding door acceptable if the room is never locked and egress is always available; 3'-0" clearance after open. Wait Rain City. Do not invent code conclusions. **No amounts.**
+- Next: Peter 25 Nov issued CFIA-room rough-in plumbing field-review report. Sliding door OK if unlocked / egress always available. Wait remaining Rain City. Do not invent code conclusions. **No amounts.**
 
 ### T-039 — 6231 Fraser St / Hyderabad Biryani House
 - Status: waiting. Pri: P3.
@@ -320,7 +322,7 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 
 ### T-041 — 115 West 4th Avenue
 - Status: open. Pri: P2.
-- Next: CoV asked additional info / fees on **BP-2026-03566** — paid. Gilles: OT form (sign for Derek?) and metal stair-rail code. Danny: standard racks OK; over 8' needs engineering. Wait city / Yeming. Separate from T-003. Do not invent permit conclusions. **No amounts.**
+- Next: Danny 25 Nov: OT form sent; city does not accept it 100% of the time. Wait city / Yeming. **BP-2026-03566**. Separate from T-003. Do not invent permit conclusions. **No amounts.** Do not log visa.
 
 ### T-042 — 260 / 422 E 3rd NV / La Vita Lounge
 - Status: open. Pri: P2.
@@ -364,7 +366,7 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 
 ### T-052 — 4076 Weisbrod Road
 - Status: open. Pri: P1.
-- Next: Juan 21 Nov **UNREAD**: sign and seal Sch A; sign/initial Sch C-B; complete city checklist pp. 11–18; request title search. Separate from T-101. Do not invent permit conclusions. **No amounts.**
+- Next: Juan 25 Nov **UNREAD**: initial the revised structural Sch B and return. Earlier: sign/seal Sch A + CB; city checklist pp. 11–18; title search. Separate from T-101. Do not invent permit conclusions. **No amounts.**
 
 ### T-053 — 1991 Franklin / Symmetry Lighting
 - Status: waiting. Pri: P3.
@@ -387,8 +389,8 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 - Next: Danny 30 Oct to Edward: yes, we can do a separate set. Still waiting Schedule A signed back. Tamara: shaft wall is a go; add floor-assembly fireproofing note. Drive `2602 - 1369 United Boulevard (Daycare)`. Separate from T-014. Do not invent code conclusions. **No amounts.**
 
 ### T-058 — 125 Park Road / DP26-0136
-- Status: open. Pri: P2.
-- Next: Avan 18 Oct sent topographic site plan (Drive `23698-TOPO-125 PARK ROAD-OCT10 2024`). Danny: put topo/survey on the plan background; civil must show road dedication after confirming with the city; asked when civil is coming. Follow Avan / civil. Do not invent permit conclusions.
+- Status: open. Pri: P1.
+- Next: Avan 26 Nov **UNREAD**: reply to Steven / Laurence on structural — stair wall fire rating / block wall, east stair wood wall, 13'-4" floor-to-floor, west steel-column alignment. Topo already in. Do not invent permit conclusions.
 
 ### T-059 — 2800 E 1st / CA and CB closeout
 - Status: open. Pri: P2.
@@ -420,7 +422,7 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 
 ### T-066 — Chaiiwala / Granville Street
 - Status: open. Pri: P1.
-- Next: Aman 25 Nov: architect to review existing shaft and Holy Shakes grease-duct penetration before Sch C-B / C-A. Moin: team on site today. Trip test still **Fri 27 Nov**. Separate from T-049 Barrie. Do not invent occupancy conclusions.
+- Next: Aman: architect to review existing shaft and Holy Shakes grease-duct penetration before Sch C-B / C-A. Moin 26 Nov: trip test **Fri 27 Nov 11:00**. Separate from T-049 Barrie. Do not invent occupancy conclusions.
 
 ### T-067 — 21331 Gordon Way Unit 3140 / Daily Fresh Shellfish
 - Status: open. Pri: P2.
@@ -479,8 +481,8 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 - Next: Amanda 5 Oct: clients still asking to check with the city on washrooms (realtor said none needed). Danny 2 Oct: provide 2 small washrooms in the original suggested location — one washroom may not be accepted. Check city / explain. Do not invent code conclusions.
 
 ### T-081 — Medcorp / Abbotsford ramp
-- Status: open. Pri: P1.
-- Next: Meliza 25 Nov **UNREAD**: IFBP drawings ready for stamp/seal (`2026.11.20 DR. GANESUNI - ISSUE FOR BP.pdf`). AquaVolt coord set later today, then forwarded. Stamp the set. Separate from T-007 (invoice closed). Do not invent code conclusions. **No amounts.**
+- Status: open. Pri: P2.
+- Next: Danny 25 Nov sent signed/sealed IFBP; needs Sch A signed back to reseal; waiting AquaVolt coord set to initial. Meliza thanks 26 Nov. Separate from T-007 (invoice closed). Do not invent code conclusions. **No amounts.**
 
 ### T-082 — Capital View Homes / 11184 84 Avenue Delta gym
 - Status: waiting. Pri: P3.
@@ -659,8 +661,8 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 - Next: Estimate **21159** sent Lara 19 Nov. Lara: waiting on the client; start in the new year. **No amounts.** Do not invent permit conclusions.
 
 ### T-126 — 2613 St Johns / Port Moody clinic
-- Status: open. Pri: P1.
-- Next: Tim 23 Nov **UNREAD**: ID is Robyn Ripoli; Arch + CRP all phases; ignore Tetratech; high-level on sprinkler / accessibility; Danny leads code first. Also **UNREAD**: review non-sprinkler Group D strategy. Site **today Wed 25 Nov 10:00**. Pricing **Mon 30 Nov**. **No amounts.** Do not invent code conclusions.
+- Status: open. Pri: P2.
+- Next: Site walkthrough was **Wed 25 Nov**. ID Robyn Ripoli; Arch + CRP all phases. Pricing **Mon 30 Nov**. **No amounts.** Do not invent code conclusions.
 
 ### T-127 — 420 Howe Street / Form Projects
 - Status: open. Pri: P2.
@@ -681,3 +683,11 @@ Last refreshed: 2026-11-25 (weekday 08:00 America/Vancouver). Next ID: **T-132**
 ### T-131 — 1724 W 4th Ave / Avan Design
 - Status: open. Pri: P2.
 - Next: Avan 24 Nov: former restaurant, drywall gone; is a new fire-rated ceiling needed? Danny 25 Nov: yes, rated floor assembly; what function will the space be used for? Wait Avan. Separate from T-104 Langley ToL. **No amounts.** Do not invent code conclusions.
+
+### T-132 — Soie Salon / 4388 Fraser Street
+- Status: open. Pri: P1.
+- Next: Melissa 26 Nov **UNREAD**: quote architectural + CRP (mech / plumbing) for a change-of-use permit. ~1,300 sf vacant unit; grease interceptor suggests former food service. Send proposal. Separate from T-039 Hyderabad Biryani / 6231 Fraser. **No amounts.** Do not invent permit conclusions.
+
+### T-133 — BDS Gilmore / VPAC remobilize
+- Status: open. Pri: P2.
+- Next: Jasmine 25 Nov: project restarting early January. Review IFC drawings, CCNs, and field-review reports by **Fri 4 Dec** before remobilize. Do not invent construction conclusions. **No amounts.**
